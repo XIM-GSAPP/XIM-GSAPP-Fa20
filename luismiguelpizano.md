@@ -9,7 +9,7 @@ If the Bronx continues to grow through the construction of mid-sized buildings t
 
 In line with the Fourth Regional Plan, this project seeks to "ensure [that] all housing is healthy" which will require the "transformation of historically environmentally burdened neighborhoods into healthy communities by reducing pollution from ports, airports, trucks, and highways, and transitioning from polluting energy sources," and to "Connect urban neighborhoods with parks and greenery and an easily accessible regional trail network to allow everyone to benefit from the region’s open spaces and natural beauty." 
 
-![Pollution Splash](https://octodex.github.com/images/PollutionSplash.png)
+![Image of Pollution](https://github.com/luismiguelnyc/XIM-GSAPP-Fa20/blob/main/images/PollutionSplash.png?raw=true)
 
 
 
