@@ -39,22 +39,26 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 ### Type Rules
 
 1. Based on typical NYCHA Housing types. It applies to convex polygon parcels and whose max to min sides ratio is under the threshold.
-2. The current balcony direction is determined by the sunlight direction which should related to the context, and the default direction is due south (0, -1). The specific operation of this part can be found in the cluster of "balcony footprint".
-3. The battery calculated the angle between the normal direction of the base tower outline and the sunlight direction, arranged them in pairs according to the order of the angle, and set the balcony offset on the direction with sufficient sunlight.
+2. If the area of the parcel is smaller than a threshold, this type won’t be applied to the parcel.
+3. If the shortest edge is smaller than a threshold, this type won’t be applied to the parcel.
+4. The ratio of the longest edge to the shortest edge is another parameter: if it is larger than the threshold, the building will have same widths’ wings; if it is larger smaller than the threshold, the wings’s widths will be in proportion, which is relevant to the geometry of the parcel.
+5. There are some spatial qualities of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
+
 
 ![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20rule.jpg)
 
 ### Use Type If:
 
-1. Your team is interested in exploring how tower typology with balconies could be used within your project.
-2. Your team is interested in considering the optimal daylight to reduce energy consumption.
-3. If your team want to conduct studies of sunlight, for example, based on the urban context.
+1. Your team has interests in the typologies of NYCHA Housing.
+2. Your team has interests in studying the solar energy production potential of PV Panels on facade.
+3. Your team wants to conduct studies of sunlight, view analysis and public spaces shared by each resident in the parcel.
+
 
 ### Not Recommended to Use Type If:
 
-1. Your team is exploring more complex geometries because the end result might not meet the procedural rules and the end result might not be what you want.
-2. The height of your structures is very low.
-3. Your team is exploring different building typologies other than tower typology.
+1. Your team is more interested in more complex geometries.
+2. The street grid of your team has curves.
+3. You want to create a totally new type instead of transferring from the existing NYCHA types.
 
 ### What to Know & Limitations
 
