@@ -208,7 +208,7 @@ The radius(**30ft**) of view range is decided by the distance between blocks in 
 
 **Mximizing visibility at every corner** is especially for the people with hearing disabilities. They usually get spatial information with their eyes.
 
-The option that has the most ratio of circles which have **more visibility(blue)** will be the successful one.
+**The highest ratio of visibility(blue)** will be the most successful option.
 
 <br />
 
