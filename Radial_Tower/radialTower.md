@@ -1,12 +1,12 @@
 # Radial Tower for Solar Energy
 
-![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20MAIN%20PHOTO.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/radialTower.jpg)
 
 ### Type Description
 
 This type is a redesign of the existing NYCHA Building type. Generally in each building there is a central vertical circulation core and radial residential wings, the number of which depends on how many sides the parcel has. This is a very typical building of NYCHA and it is efficient in terms of spatial organization and programs distribution. The purpose of these iterations are trying to optimize the solar energy production potential of putting PV Panels on building facade.
 
-![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-BATTERY.png)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/ghScreenShot.png)
 
 ### Required inputs
 
