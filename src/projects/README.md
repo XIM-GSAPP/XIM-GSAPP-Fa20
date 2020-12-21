@@ -31,7 +31,7 @@ In 2050, New Yorkers no longer rely on cars.
 In 2050, New York City achieves carbon neutrality and 100% clean electricity.
 In 2050, New York City ensures all New Yorkers have access to neighborhood open spaces and cultural resources.
 ```
-
+![description](../projects/population.png)
 
 
 ### Goals and Metrics
@@ -67,21 +67,22 @@ Light and accessibility of green space are both important, so the more intuitive
 
 
 ### Analysis Tools
-* Beneficial Daylight for Facade*
+
+***Beneficial Daylight for Facade*** 
 ![description](../projects/METRIC%20facade.jpg)
 
 Metric 01: Facade meet requirement: summer sun<6hr/day
 
 Metric 02: Facade meet requirement: winter sun>3hr/day 
 
-* Walkability *
+***Walkability*** 
 ![description](../projects/METRIC3.jpg)
 
 Metric 03: Population that has 7-min access to Metro Station
 
 Metric 04: Population that has 3-min access to Green Space
 
-* Green Space Quality *
+***Green Space Quality*** 
 ![description](../projects/METRIC2.jpg)
 
 Metric 05: Green Space that has average 4 hr sunlight/day 
