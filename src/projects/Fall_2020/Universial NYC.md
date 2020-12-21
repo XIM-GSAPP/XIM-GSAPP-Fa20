@@ -41,7 +41,7 @@ These section should be descriptive of how your team is setting up goals and met
 1. Why you are measuring it?
 1. How does it relate to your goals?
 
-i.e. how did you set up your project to measure performance and what did you expect to find?
+i.e.  
 
 ### What Did We Discover?
 
@@ -174,4 +174,3 @@ For the concluding text of your computational design model documentation, think 
 ### Overall format and flow of text:
 
 For each of the sections, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each section needs to stand alone but it should not be text heavy. Someone should be able to read through your post in 10 - 15 minutes.
-
