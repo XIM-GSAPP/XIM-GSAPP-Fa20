@@ -2,7 +2,7 @@
 
 *** Universal Design with super podiums and openness
 
-![introduction image](/src/images/Universal NYC_Disability Background Research (1).jpg)
+![introduction image](/images/Universal NYC_Disability Background Research (1).jpg)
 
 
 <br />
