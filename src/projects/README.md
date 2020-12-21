@@ -31,7 +31,6 @@ In 2050, New Yorkers no longer rely on cars.
 In 2050, New York City achieves carbon neutrality and 100% clean electricity.
 In 2050, New York City ensures all New Yorkers have access to neighborhood open spaces and cultural resources.
 ```
-![description](../projects/population.png)
 
 
 ### Goals and Metrics
@@ -124,20 +123,22 @@ Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sun
 
 ### Procedural Types
 
-* 01: Urban Grid Type*
+![description](../projects/population.png)
+
+*01: Urban Grid Type*
 ![description](../projects/GRID%20TYPE.jpg)
 
 
-* 02: Tower Distribution Type*
+*02: Tower Distribution Type*
 ![description](../projects/TOWER%20DISTRIBUTION.jpg)
 
-* 03: Green Space Density*
+*03: Green Space Density*
 ![description](../projects/GREEN%20SPACE.jpg)
 
-* 04: Balcony Shape Type*
+*04: Balcony Shape Type*
 ![description](../projects/BALCONY%20SHAPE.jpg)
 
-*  05: Tower Balcony Depth/Height Ratio*
+*05: Tower Balcony Depth/Height Ratio*
 ![description](../projects/BALCONY%20ratio.jpg)
 <br />
 
