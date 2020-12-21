@@ -8,7 +8,7 @@ Team: Gun Young Jang, Jiyong Chun
 ##### Universal Design with super podiums and public nodes
 
 
-![Place holder for introduction image](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling.gif)
+![Introduction Collage image](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Introduction%20Collage%20Image._Downgradejpg.jpg)
 
 
 <br />
@@ -288,9 +288,13 @@ The option that has **much daylight hours(red)** will be a successful one.
 
 ### Procedural Types
 
+Tower and Podium type and Markethall type
+
 This section focuses on the rules you have defined, range of variability and an explanation of how they relate to you goals and metrics. 
 
 [Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/types) to any procedural types you have documented and posted.
+
+
 
 ![description](../images/PT_DiagramProceduralType.png)
 *Please include a short caption describing your diagram.*
@@ -307,6 +311,8 @@ It is encouraged to use sketching when illustrating rules and types of your comp
 Road option 1, 2, 3, 4
 
 Connect exsting roads with grid, diagonal, curvy, and trail without roads for cars types.
+
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_scout%20variation.gif)
 
 Extreme Node offset min, max Image
 
