@@ -85,6 +85,8 @@ The Solar Proxy tool is related to the solar energy generation on building facad
 
 #### Radial Tower
 
+[Link](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/radialTower.md)
+
 ***Procedural type rule***
 
 
@@ -109,7 +111,7 @@ If it is larger than 3 but smaller than 5, the building will have same widths’
 
 Illustrating rules and types of computational design model.
 
-[Link](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/radialTower.md) to any procedural types you have documented and posted.
+ to any procedural types you have documented and posted.
 
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/toKnow.jpg)
 
