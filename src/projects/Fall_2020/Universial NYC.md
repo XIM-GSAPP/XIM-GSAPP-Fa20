@@ -153,6 +153,7 @@ Roads for bike and waling people: 15ft
 
 ### Analysis Tools
 <br />
+
 ![Metrics 1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%201.gif)
 
 *-The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium<br />
