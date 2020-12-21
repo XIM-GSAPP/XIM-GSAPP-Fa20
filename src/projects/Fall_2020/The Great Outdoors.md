@@ -223,13 +223,13 @@ As the type of public space directly affects our building typology, we took into
 Worst - While compactness is measured in relation to its own, we noticed that building with lower height is most inefficient as site footprint has not been maximized to achieve most volume.
 
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/c%20w.gif)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/C_worst_NEW.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Best - Contrary, although higher buildings, those with more population density needs, take longer to travel (vertically); they are highly efficient as surface area is minimized while volume is maximized. However, public space type-bar requires more surface area due to its nesting nature and must be considered matching its building performance efficiencies
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/c%20b.gif)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/C_best_NEW.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
