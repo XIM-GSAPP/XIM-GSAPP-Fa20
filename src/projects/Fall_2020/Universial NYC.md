@@ -113,15 +113,15 @@ The site represents socially alienated place but at the same time, which has gre
 New community on this site will support socially neglected people in NYC as public institutes and social housings.
 
 <br>
-Background Image Source
-*1. Google Earth*
+Background Image Source<br />
+  -*1. Google Earth*
 
 ![Site FAR analysis](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Analysis_footage.JPG)
 
 
 <br>
-Background Research Source
-*1. New York City’s Zoning & Land Use Map*
+Background Research Source<br />
+  -*1. New York City’s Zoning & Land Use Map*
 
 
 
@@ -138,11 +138,11 @@ Background Research Source
 
 ![modeling procedure](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling.gif)
 
-Roads for car: 30ft
+Roads for car: 30ft<br />
 Roads for bike and waling people: 15ft
 
 Background Research Source<br />
-*1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual*
+  -*1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual*
 
 
 ![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram1.JPG)
