@@ -1,4 +1,4 @@
-# Tower with Balconies for Optimal Daylight
+# Radial Tower for Solar Energy
 
 ![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20MAIN%20PHOTO.jpg)
 
