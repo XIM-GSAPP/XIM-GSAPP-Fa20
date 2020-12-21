@@ -13,6 +13,8 @@
 
 This tool is related to the solar energy generation on building facades and roofs aiming to simulate the real PV Panel solar production by a less time-consuming proxy.
 
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-4.jpg)
+
 ### How To Use
 
 <b>Step by Step Instructions:</b>
@@ -31,7 +33,7 @@ This tool is related to the solar energy generation on building facades and roof
 
 <b> Troubleshooting </b>
 
-Make sure to link to the right EPW first.
+Make sure to link to the right EPW file first and click the button.
 
 Please add relevant plugins to your library for easy usage.
 
@@ -39,10 +41,6 @@ Please add relevant plugins to your library for easy usage.
 
 link Analysis Tool Example.gh
 link grasshopper_tree.jpg
-link Analysis Tool Example.ai
-![description](../files/Analysis Tool Example.3dm)
-
-![description](../images/tool_example_4_.jpg)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_4_.jpg) -->
 
@@ -63,7 +61,7 @@ link Analysis Tool Example.ai
 
   <li>Try "SelBlockInstance" and "SelGroup" to make sure.</li>
 
-<input type="checkbox"> <b>My model is set to either Meters or Feet (not mm or in).</b> <br>
+<input type="checkbox"> <b>My model is set to Feet (not mm or in).</b> <br>
 
 <input type="checkbox"> <b>My model is free of overlapping, coplanar, or intersecting geometry.</b><br>
 
@@ -71,16 +69,20 @@ link Analysis Tool Example.ai
 
 <input type="checkbox"> <b>Any curved surfaces in the model have been simplified to individual flat planes.</b><br>
 
-<input type="checkbox"> <b>Any surrounding context has been made into a single, joined mesh.</b>
-
 ### Sources, Calculations + Metrics
 <!--add text and/or images for any sources for you metrics, calculations & equations, assumptions and specific metric output-->
-This tool uses this method of calculating X from this source. The metric is derived in this manner. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This tool uses this method of calculating approximately PV energy generation.
+1. We calculate the solar energy production of a basic surface to get the acceptable PV efficiency (85%) per sq ft.
+2. Then we get hours for the 10th and 20th for every month from 6am to 8pm.
+3. Next we use Archsim to get a proxy of annual solar radiation.
+4. We take a 90% of the upper bounds of the result.
+5. We multiply the surfaces' area above the threshold with the acceptable PV efficiency (85%) per sq ft, thus get the approximate PV Panel energy generation value.
+
 
 ### Limitations & Context
 <!--add text and/or images that expose potential for bias by stating limitations (ie what does this tool not do,) and the context in which it was created.-->
 
-This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The tool is still under development. We are still trying to figure out the correlations between Solar Radiation and PV Panel production. Since PV Simulation is an extremely time-consuming tool, then we used this proxy tool to approximate the real solar production.
 
 ### Examples
 <!--add images and text to describe a use case below-->
@@ -90,6 +92,7 @@ Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consecte
 ### Required Plugins
 
 1. Pufferfish
+2. Archsim
 
 ### Required Files
 
