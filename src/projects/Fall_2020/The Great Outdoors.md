@@ -190,18 +190,6 @@ Illustrating rules and types of computational design model.
 
 <br />
 
-### Exploring the Design Space
-
-This section should be descriptive of your team's design exploration and initial insights using Scout. 
-
-***Each team will be conducting a live demonstration of your model in Scout when presenting final project.***
-
-Additionally, teams will be required to document their live demo on GitHub with annotated, sequential screenshots replicating the sequence of the live demonstration. Show how you can use Scout to explore scenarios or answer specific questions using the parallel coordinates chart.
-
-```
-For example,
-“What if’s . . .”
-```
 
 ### Results
 
@@ -215,14 +203,14 @@ The higher density the daylight could have different performance, because it rea
 
 ***Walkability***
 
-Worst - We discovered that the typical New York street grid is most inefficient at connecting adjacent attraction points; in our case, we measured the accessibility to out-door dining type with in 10 minutes walking radius. Scenario 1, with high vertical travel distance caused by high population density, produced a situation where residents on average will only access 3.6 restaurants within 10 minutes.
+Worst - We discovered that the typical New York street grid is most inefficient at connecting adjacent attraction points; in our case, we measured the accessibility to out-door dining type with in 8 minutes walking radius. Scenario 1, with high vertical travel distance caused by high population density, produced a situation where residents on average will only access 3.6 restaurants within 8 minutes.
 
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/worse.gif)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/W_worst%20NEW.gif)
 
 Best - The best scenario for walking around our future mega block is in fact a centralized street grid system. With more than four side intersections matched with a lower population density, the average number of outdoor dining locations a resident enjoy on a typical day is high in the 40s (48.3)
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/best.gif)
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/W_best%20NEW.gif)
 
 
 
