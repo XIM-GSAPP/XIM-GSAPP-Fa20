@@ -144,10 +144,10 @@ Dog Park, the building height is higher than 200 feet with mid population densit
 Bar/ Barbeque Area, the building height is higher than 200 feet with high population density.
 
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20types-01.png)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/ratios-01.jpg)
 
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20TYPES%20ILLUSTRATIONS.png)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/heightsVariation.jpg)
 
 Illustrating rules and types of computational design model.
 
