@@ -90,12 +90,17 @@ Metric 05: Green Space that has average 4 hr sunlight/day
 Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sunlight/Day
 
 
+<br />
+
+***
+
 
 ####  Beneficial Daylight for Facades Analysis Tool
 ![description](../projects/T-MAIN%20PHOTO2.jpg)
 *This analysis tool explores building in winter and summer sunlight time. In consideration of energy consumption, the building should reduce direct sunlight in summer as much as possible to prevent heat, and increase direct sunlight in winter to ensure insulation. Area that meets both summer shading and winter lighting can be understood as a sustainable area. This Analysis Tool visualizes the distribution of these sustainable areas.*
 
 [Link](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Average_Daylight/README.md) 
+
 
 
 
@@ -106,6 +111,11 @@ Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sun
 [Link](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/blob/main/src/types/Tower_with_Balconies/README.md) 
 
 
+
+
+<br />
+
+***
 
 ### Procedural Types
 
@@ -147,16 +157,3 @@ We also compare the dimensions synthetically and get several sets of good and ba
 ![description](../projects/CHOICES.jpg)
 *The best and worst average performance*
 
-
-### Conclusions and Next Steps
-
-For the concluding text of your computational design model documentation, think about the following questions as you reinforce the reason why the results your team's model should implemented.
-
-1. How do you recommend the results of your model be used? Who should learn from this?
-1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
-1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
-
-
-### Overall format and flow of text:
-
-For each of the sections, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each section needs to stand alone but it should not be text heavy. Someone should be able to read through your post in 10 - 15 minutes.
