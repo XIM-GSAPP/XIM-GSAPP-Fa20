@@ -1,9 +1,12 @@
+Final Project XIM Fall 2020
+Team: Gun Young Jang, Jiyong Chun
+
 # Universal NYC
 
-Universal Design with super podiums and openness
+##### Universal Design with super podiums and public nodes
 
 
-![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling.gif)
+![Place holder for introduction image](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling.gif)
 
 
 <br />
@@ -14,21 +17,21 @@ Universal Design with super podiums and openness
 
 <br />
 
-Clearly state both the problem that your project addresses AND an explanation of your hypothesis -- i.e., how the project might address the problem. This can incorporate the ***daring questions*** that you asked during the development of your computational model. Feel free to deviate from the Mad Libs structure, which may have now become restrictive.
+![Daring question diagram](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Super%20Podium.JPG)
 
-For example, a daring question could be:
+
+***Super podium*** will enable people to enjoy enough accessibility regardless of different abilities. At the same time, towers on super podium will get bonus FAR for incentive, which richens building design. For this thesis, two building types will be explored, tower+podium and markethall.
+
+
+Daring question:
 
 ```
-“What if all park space was equitably distributed?”
+“What if multiple buildings share one super podium and street nodes are open to enable people easily access upper ?”
 ```
 
-Then, you would take a google earth image of Manhattan and photoshop buildings in place of Central Park and many small parks scattered throughout the borough. See image below.
 
 
-![description](../images/Final_Project_Temple_Collage_Image.jpg)
-This image should be a ***photo collage*** that is illustrative of the outcome of your project.
-*Please include a short caption describing your college.*
-
+       
 
 ### Goals and Metrics
 
@@ -165,6 +168,7 @@ For the concluding text of your computational design model documentation, think 
 1. How do you recommend the results of your model be used? Who should learn from this?
 1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
 1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
+2. Refering to the outcome of 'X minute public spaces' analysis, design more public spaces not only near buildings but also in the buildings
 
 
 ### Overall format and flow of text:
