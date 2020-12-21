@@ -47,18 +47,6 @@ Creating a new type of Energy Neutral Community which use PV Panels on facades t
 
 
 
-***We expect to find a comfortable community or a urban context needs at least 6 hours sunlight exposure, the enough public space as well as the different programs to meet the requirement. Moreover, the public space accessible within 10 mins based on different walkability path.***
-
-
-![description]()
-
-In New York, Full block implementation saw higher levels of activity (78%) than “Open Restaurant” street (62%) and far higher level of activity compared to “Protected Bike Lane” street (51%)
-
-
-In 2050, city of New York commits to have its first neighborhood designed to let people experience the GREAT Outdoors during the Pandemic.
-
-
-
 <br />
 
 ***
@@ -169,6 +157,5 @@ Were certain metrics inconclusive? Were there unexpected correlations? What are 
 
 ### Next Steps
 
-1. Develop the Solar Proxy Tool.
-2. New types will be designed.
-3. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
+1. Develop the Solar Proxy Tool. Trying to figure out correlations between PV and Proxy by doing regressions.
+2. New types will be designed (e.g. Setback Towers/skyscrapers having similar logic to those ratio < 1)
