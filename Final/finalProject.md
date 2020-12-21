@@ -112,15 +112,18 @@ They are restricted by the urban density and building height.
 ***Procedural type rule***
 
 
-Outdoor Performance, the building height below 120 feet with low population density.
+Based on typical NYCHA Housing types. It applies to convex polygon parcels.
 
-Outdoor Eating, the building height below 120 feet with mid population density.
+It cannot apply to curving parcels.
 
-Urban Roof Garden, the building height is equal to 120 feet with high population density.
+If the area of the parcel is smaller than the threshold, this type won’t be applied to the parcel.
 
-Dog Park, the building height is higher than 200 feet with mid population density.
+If the shortest edge is smaller than the threshold, this type won’t be applied to the parcel.
 
-Bar/ Barbeque Area, the building height is higher than 200 feet with high population density.
+If the ratio of the longest edge to the shortest edge is larger than 5, this type won’t be applied to the parcel.
+
+If it is larger than 3 but smaller than 5, the building will have same widths’ wings; if it is smaller than 3,  the wings’ widths will be in proportion, which is relevant to the geometry of the parcel.
+
 
 
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/ratios-01.jpg)
