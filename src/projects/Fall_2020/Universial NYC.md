@@ -290,7 +290,7 @@ Green: Markethall type
 <br />
 
 ![modeling procedure diagram2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram2.JPG)
-*The annual average of altitude and angle of sunray was used to calculate the maximum amount of sunlight.*
+*The annual average of altitude and angle of sunray was used to maximize the amount of sunlight at the nodes.*
 
 
 <br />
