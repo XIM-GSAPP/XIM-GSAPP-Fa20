@@ -37,16 +37,15 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 ### Type Rules
 
 1. Based on typical NYCHA Housing types. It applies to convex polygon parcels.
-2. If the area of the parcel is smaller than a threshold, this type won’t be applied to the parcel.
-3. If the shortest edge is smaller than a threshold, this type won’t be applied to the parcel.
-4. The ratio of the longest edge to the shortest edge is another parameter: if it is larger than the threshold, the building will have same widths’ wings; if it is larger smaller than the threshold, the wings’ widths will be in proportion, which is relevant to the geometry of the parcel.
+2. It cannot apply to curving parcels.
+3. The ratio of the longest edge to the shortest edge is an important parameter: if it is larger than 3 but smaller than 5, the building will have same widths’ wings; if it is smaller than 3,  the wings’ widths will be in proportion, which is relevant to the geometry of the parcel.
 
 
 
 ### Use Type If:
 
 1. Your team has interests in the typologies of NYCHA Housing.
-2. Your team has interests in studying the solar energy production potential of PV Panels on facade.
+2. Your team has interests in studying the solar energy production potential of PV Panels on the facades.
 3. Your team wants to conduct studies of sunlight, view analysis and public spaces shared by each resident in the parcel.
 
 
@@ -59,7 +58,9 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 ### What to Know & Limitations
 
 1. There are some spatial qualities of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
-2. It cannot apply to curving parcels.
+2. If the area of the parcel is smaller than the threshold, this type won’t be applied to the parcel.
+3. If the shortest edge is smaller than the threshold, this type won’t be applied to the parcel.
+4. If the ratio of the longest edge to the shortest edge is larger than 5, this type won’t be applied to the parcel.
 
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/toKnow.jpg)
 
@@ -69,6 +70,6 @@ No specific plugins necessary
 
 ### Required Files
 
-[Rhino File](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/types/Tower_with_Balconies/Tower%20with%20Balconies%20for%20Optimal%20Daylight.3dm)
+[Rhino File](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/Radial%20Tower%20for%20Solar%20Energy.3dm)
 
-[Grasshopper File](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/types/Tower_with_Balconies/Tower%20with%20Balconies%20for%20Optimal%20Daylight.gh)
+[Grasshopper File](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/Radial%20Tower%20for%20Solar%20Energy.gh)
