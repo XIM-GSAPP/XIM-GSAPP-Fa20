@@ -35,15 +35,9 @@ The introduction image indicates we propose putting PV panels on the facades of 
 The introduction image indicates we propose putting PV panels on the facades of the housing type which transformed from typical NYCHA Housings.
 
 
-### Goals and Metrics
+### Goals
 
-***Metrics***
-1. Average annual PV Production (Proxy)
-2. Winter Comfort Open Space
-3. Summer Comfort Open Space
-4. Views to Open Space
 
-![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/outputs.jpg)
 
 ***Goal***
 
@@ -60,6 +54,16 @@ Creating a new type of Energy Neutral Community which use PV Panels on facades t
 <br />
 
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/CompDesignModelDiagram-01.jpg)
+
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/inputs.jpg)
+
+***Metrics***
+1. Average annual PV Production (Proxy)
+2. Winter Comfort Open Space
+3. Summer Comfort Open Space
+4. Views to Open Space
+
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/outputs.jpg)
 
 
 
@@ -119,7 +123,7 @@ Illustrating rules and types of computational design model.
 ### Design Space
 
 
-![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/inputs.jpg)
+
 
 
 <br />
@@ -132,23 +136,7 @@ Illustrating rules and types of computational design model.
 
 ### Exploring the Design Space
 
-This section should be descriptive of your team's design exploration and initial insights using Scout.
 
-***Each team will be conducting a live demonstration of your model in Scout when presenting final project.***
-
-Additionally, teams will be required to document their live demo on GitHub with annotated, sequential screenshots replicating the sequence of the live demonstration. Show how you can use Scout to explore scenarios or answer specific questions using the parallel coordinates chart.
-
-```
-For example,
-“What if’s . . .”
-```
-
-### Results
-
-Were certain metrics inconclusive? Were there unexpected correlations? What are the GENERAL trends in your data? What are your SPECIFIC insights/findings? You can annotate right on top of Scout screenshots or translate insights to diagrams. How does performance (metrics) relate to form (inputs)?
-
-![description]()
-*Please include a short caption describing your diagram.*
 
 
 ### Conclusions
