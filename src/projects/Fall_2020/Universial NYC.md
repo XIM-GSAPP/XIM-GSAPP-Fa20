@@ -39,7 +39,6 @@ Team: Gun Young Jang, Jiyong Chun
 
 #### Goals and Metrics
 
-These section should be descriptive of how your team is setting up goals and metrics to determine success.
 
 ###### 1. Goal :
 Equality in terms of accessibility, visibility, and safety in NYC / supporting community center
@@ -205,9 +204,9 @@ Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
 
 <br />
 
-The radius(**30ft**) of view range is decided by the distance between inner blocks.
+The radius(**30ft**) of view range is decided by the distance between blocks in the podiums and markethall.
 
-**To maximize Visibility at every corner**, which is especially for people with hearing disabilities. They usually get spatial information with the eye.
+**Mximizing visibility at every corner** is especially for the people with hearing disabilities. They usually get spatial information with their eyes.
 
 The option that has the most ratio of circles which have **more visibility(blue)** will be the successful one.
 
