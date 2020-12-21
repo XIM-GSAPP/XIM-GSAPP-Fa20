@@ -20,29 +20,26 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 
 2. Static:
 
-(1)Top-Bottom Ratio: The choices are 0.5, 0.7 and 1.
+(1)Top-Bottom Ratio: The choices are 0.5, 0.75 and 1.
 
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/ratios-01.jpg)
 
 (2)Heights Variation: The data should smaller than One Side Set Back Ratio.
 
-![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20OFFSET.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/heightsVariation.jpg)
 
-(3)Variation Pattern: This parameter determines how many floors generate a balcony for a group.
+(3)Variation Pattern: This parameter determines the direction in which the heights of buildings change.
 
-![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20Interval.jpg)
 
-(4)Floor to Floor Height
+(4)Floor to Floor Height.
 
 
 ### Type Rules
 
-1. Based on typical NYCHA Housing types. It applies to convex polygon parcels and whose max to min sides ratio is under the threshold.
+1. Based on typical NYCHA Housing types. It applies to convex polygon parcels.
 2. If the area of the parcel is smaller than a threshold, this type won’t be applied to the parcel.
 3. If the shortest edge is smaller than a threshold, this type won’t be applied to the parcel.
-4. The ratio of the longest edge to the shortest edge is another parameter: if it is larger than the threshold, the building will have same widths’ wings; if it is larger smaller than the threshold, the wings’s widths will be in proportion, which is relevant to the geometry of the parcel.
-5. There are some spatial qualities of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
-
+4. The ratio of the longest edge to the shortest edge is another parameter: if it is larger than the threshold, the building will have same widths’ wings; if it is larger smaller than the threshold, the wings’ widths will be in proportion, which is relevant to the geometry of the parcel.
 
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/radialTower.jpg)
 
@@ -61,11 +58,8 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 
 ### What to Know & Limitations
 
-1. Tower Footprint in cluster. If your tower has less than 4 sides (like triangle shape), it would not work.
-   The current type only supports the tower with greater than or equal to 4 sides, and optimize the one with more than 4 sides to 4 sides.
-2. Balcony Footprint in cluster. If your tower want to conduct the sunlight based on the urban context, you will have to modify the definition of sunlight vector.
-
-![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%204%20sides.jpg)
+1. There are some spatial qualities of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
+2. It cannot apply to curving parcels.
 
 
 ### Required Plugins
