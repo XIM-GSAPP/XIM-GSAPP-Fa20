@@ -13,7 +13,7 @@
 
 This tool is related to the solar energy generation on building facades and roofs aiming to simulate the real PV Panel solar production by a less time-consuming proxy.
 
-![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-4.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-4.JPG)
 
 ### How To Use
 
@@ -88,7 +88,7 @@ The tool is still under development. We are still trying to figure out the corre
 <!--add images and text to describe a use case below-->
 Here is how we used this tool on a project!
 
-![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-5.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-5.JPG)
 
 
 ### Required Plugins
