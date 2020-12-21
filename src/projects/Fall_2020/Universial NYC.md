@@ -200,8 +200,6 @@ which can be calculated by multiplying average wheelchair speed and the amount o
 
 ###### Background Research Source
 
-<br />
-
 *1. Manual Wheelchair Use: Bouts of Mobility in Everyday Life*
 
 <br />
