@@ -2,7 +2,8 @@
 
 *** Universal Design with super podiums and openness
 
-    !(https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/Universal NYC_Modeling.gif)
+
+![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/Universal NYC_Modeling.gif)
 
 
 <br />
