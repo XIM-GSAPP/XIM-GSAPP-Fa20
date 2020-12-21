@@ -114,17 +114,19 @@ The site represents socially alienated place but at the same time, which has gre
 New community on this site will support socially neglected people in NYC as public institutes and social housings.
 
 <br>
+
 ###### Background Image Source
-<br />
-  *1. Google Earth*
+
+*1. Google Earth*
 
 ![Site FAR analysis](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Analysis_footage.JPG)
 
 
 <br>
+
 ###### Background Research Source
-<br />
-  *1. New York City’s Zoning & Land Use Map*
+
+*1. New York City’s Zoning & Land Use Map*
 
 
 
@@ -144,25 +146,36 @@ New community on this site will support socially neglected people in NYC as publ
 Roads for car: 30ft<br />
 Roads for bike and waling people: 15ft
 
-###### Background Research Source
 <br />
-  *1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual*
 
+###### Background Research Source
+
+*1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual*
+
+<br />
+<br />
 
 ![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram1.JPG)
 
 
 ![modeling procedure diagram2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram2.JPG)
 
+<br />
+<br />
 
 ### Analysis Tools
 <br />
 
-####
+#### Metrics 1: 2 minute public spaces
+
 ![Metrics 1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%201.gif)
+
+<br />
 
 *- The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium*<br />
 *- X% of the cores have at least three public spaces within ‘x minute distance.’*
+
+<br />
 
 **Measure the percent of cores that have more than 3 public spaces which are nearer than ‘2 minute distance’** <br />
 which can be calculated by multiplying average wheelchair speed and the amount of time from certain parameters.
@@ -170,13 +183,17 @@ which can be calculated by multiplying average wheelchair speed and the amount o
 **To maximize** accessibility for public spaces from buildings.
 
 **The most number of close public spaces(Blue)** will be be the successful option.
+
 <br />
 <br />
+
 **Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
 
 
 ###### Background Research Source
+
 <br />
+
 *1. Manual Wheelchair Use: Bouts of Mobility in Everyday Life*
 
 <br />
@@ -185,7 +202,9 @@ which can be calculated by multiplying average wheelchair speed and the amount o
 ![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif)
 
 *- The percentage of the visible area in view ranges(30ft) at every intersection of roads*
+
 <br />
+
 *- Average view range percentage at every corner*
 
 ![View Range Diagram](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_View%20Range%20Diagram.JPG)
@@ -199,26 +218,44 @@ The option that has the most ratio of circles which have **more visibility(blue)
 
 <br />
 <br />
+
 **Red: 60%**
+
 <br />
+
 **Blue: 100%**
 
 <br />
 
 
 ![Metrics 3](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%203.gif)
+
+<br />
+
 *Average daylight hours within months when heating is required for buildings and roads*
+
 <br />
+
 (Jan, Feb, Mar, Apr, Oct, Nov, Dec)
+
 <br />
+
 We focused on heatings within cold months. This is because, for the less previliaged, sunlight is the only free source to maintain them warm enough to keep alive. 
+
 <br />
+
 To maximize the amount of daylight for buildings.
+
 <br />
+
 The option that has **much daylight hours(red)** will be a successful one.
+
 <br />
+
 ###### Blue: 1 hour
+
 <br />
+
 ###### Red: 10 hours
 
 
@@ -235,6 +272,7 @@ Describe how you are deriving your metric.
 1. Use a image / diagram for each custom tool that requires further explanation on how it works. (Example below.)
 
 #### Custom Tool Name
+
 ![description](../images/PT_ExampleToolExplanation.png)
 *Please include a short caption describing your diagram.*
 
