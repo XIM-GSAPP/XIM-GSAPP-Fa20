@@ -45,7 +45,7 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 5. There are some spatial qualities of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
 
 
-![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20rule.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/radialTower.jpg)
 
 ### Use Type If:
 
