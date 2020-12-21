@@ -2,7 +2,7 @@
 
 *** Universal Design with super podiums and openness
 
-    ![introduction image](/src/images/Universal NYC_Modeling.gif)
+    !(/src/images/Universal NYC_Modeling.gif)
 
 
 <br />
