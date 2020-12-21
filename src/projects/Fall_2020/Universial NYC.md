@@ -14,7 +14,7 @@ Team: Gun Young Jang, Jiyong Chun
 <br />
 
 ***
-<br>
+
 <br>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Project Overview
