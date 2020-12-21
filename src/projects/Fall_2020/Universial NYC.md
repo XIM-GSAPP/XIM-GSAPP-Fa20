@@ -134,17 +134,40 @@ Background Research Source
 
 <br />
 
-![description](../images/PT_CompDesignModelDiagram.png)
-This image should be an ***computational design model diagram*** that clearly describes the relationship between your ***inputs, procedural rules and metrics***. Make a clear, easily read diagram.
-*Please include a short caption.*
+
+
+![modeling procedure](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling.gif)
+
+Roads for car: 30ft
+Roads for bike and waling people: 15ft
+
+Background Research Source
+1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual
+
+
+![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram1.JPG)
+
+
+![modeling procedure diagram2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram2.JPG)
 
 
 ### Analysis Tools
-![description](../images/PT_SummaryAnalysisTool.png)
+
+![Metrics 1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%201.gif)
 *Please include a short caption describing your diagram.*
 
-![description](../images/PT_AnalysisToolSummary.png)
+![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif)
 *Please include a short caption describing your diagram.*
+
+![Metrics 3](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%203.gif)
+*Please include a short caption describing your diagram.*
+
+![Metrics 4](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%204.gif)
+*Please include a short caption describing your diagram.*
+
+![Metrics 5](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%205.gif)
+*Please include a short caption describing your diagram.*
+
 
 Describe how you are deriving your metric.
 
