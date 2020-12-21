@@ -191,15 +191,10 @@ which can be calculated by multiplying average wheelchair speed and the amount o
 **To maximize** accessibility for public spaces from buildings.
 
 **The most number of close public spaces(Blue)** will be be the successful option.
-
 <br />
-
-<br />
-
-**Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
+Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
 
 ###### Background Research Source
-
 *1. Manual Wheelchair Use: Bouts of Mobility in Everyday Life*
 
 <br />
@@ -228,13 +223,10 @@ The option that has the most ratio of circles which have **more visibility(blue)
 
 <br />
 
-<br />
-
 **Red: 60%**
+**Blue: 100%**
 
 <br />
-
-**Blue: 100%**
 
 <br />
 
@@ -242,17 +234,13 @@ The option that has the most ratio of circles which have **more visibility(blue)
 
 ![Metrics 3](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%203.gif)
 
-<br />
-
 *Average daylight hours within months when heating is required for buildings and roads*
-
-<br />
 
 (Jan, Feb, Mar, Apr, Oct, Nov, Dec)
 
 <br />
 
-We focused on heatings within cold months. This is because, for the less previliaged, sunlight is the only free source to maintain them warm enough to keep alive. 
+Focused on heatings within cold months. This is because, for the less previliaged, sunlight is the only free source to maintain them warm enough to keep alive. 
 
 <br />
 
@@ -279,6 +267,10 @@ The option that has **much daylight hours(red)** will be a successful one.
 ![Metrics 4](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metrics%204_Road.jpg)
 *The same analysis with Metrics 3 on the roads*
 
+<br />
+
+<br />
+
 #### Metrics 5: CPTED(Crime Prevention Through Environmental Design)
 
 ![Metrics 4](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%204.gif)
@@ -286,14 +278,11 @@ The option that has **much daylight hours(red)** will be a successful one.
 ![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_CPTED%20Diagram.JPG)
 
 *- The number of the views from the surrounding buildings at every node / average of views in the whole area*
-
 *- The gap between the highest exposed area and the least exposed area*
 
 <br />
 
 <br />
-
-
 
 
 
@@ -315,7 +304,17 @@ It is encouraged to use sketching when illustrating rules and types of your comp
 
 ### Design Space
 
-This section should be descriptive of your team's input ranges, the reasoning why you picked that range and explanation of what you left out. 
+Road option 1, 2, 3, 4
+
+Connect exsting roads with grid, diagonal, curvy, and trail without roads for cars types.
+
+Extreme Node offset min, max Image
+
+Extreme Far min, max Image
+
+Extreme Podium Height min, max Image
+
+
 
 ```
 For example,
@@ -339,16 +338,15 @@ Please include simple diagram(s) that illustrate extremes of the design space, a
 
 ### Exploring the Design Space
 
-This section should be descriptive of your team's design exploration and initial insights using Scout. 
+Scout design variation
 
-***Each team will be conducting a live demonstration of your model in Scout when presenting final project.***
+live demo street 1
 
-Additionally, teams will be required to document their live demo on GitHub with annotated, sequential screenshots replicating the sequence of the live demonstration. Show how you can use Scout to explore scenarios or answer specific questions using the parallel coordinates chart.
+live demo street 2
 
-```
-For example,
-“What if’s . . .”
-```
+live demo street 3
+
+live demo street 4
 
 ### Results
 
@@ -370,11 +368,7 @@ Zoom in to talk about the best option(s) and the worst. Take a few images to det
 For the concluding text of your computational design model documentation, think about the following questions as you reinforce the reason why the results your team's model should implemented.
 
 1. How do you recommend the results of your model be used? Who should learn from this?
+1. Govern
 1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
 1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
-2. Refering to the outcome of 'X minute public spaces' analysis, design more public spaces not only near buildings but also in the buildings
-
-
-### Overall format and flow of text:
-
-For each of the sections, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each section needs to stand alone but it should not be text heavy. Someone should be able to read through your post in 10 - 15 minutes.
+2. Refering to the outcome of '2 minute public spaces' analysis, design more public spaces not only near buildings but also in the buildings
