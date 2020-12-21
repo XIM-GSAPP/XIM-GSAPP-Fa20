@@ -57,7 +57,7 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 
 ### What to Know & Limitations
 
-1. There are some spatial qualities of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
+1. There are some spatial potentials of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
 2. If the area of the parcel is smaller than the threshold, this type won’t be applied to the parcel.
 3. If the shortest edge is smaller than the threshold, this type won’t be applied to the parcel.
 4. If the ratio of the longest edge to the shortest edge is larger than 5, this type won’t be applied to the parcel.
