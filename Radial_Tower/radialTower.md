@@ -22,7 +22,7 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 
 (1)Top-Bottom Ratio: The choices are 0.5, 0.7 and 1.
 
-![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20SETBACK.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/ratios-01.jpg)
 
 (2)Heights Variation: The data should smaller than One Side Set Back Ratio.
 
