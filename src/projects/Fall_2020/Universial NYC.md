@@ -141,8 +141,8 @@ Background Research Source
 Roads for car: 30ft
 Roads for bike and waling people: 15ft
 
-Background Research Source
-1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual
+Background Research Source<br />
+*1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual*
 
 
 ![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram1.JPG)
