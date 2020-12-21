@@ -7,7 +7,7 @@ Team: Huiya Zhong, Chengliang Li
 ***Creating a new type of Energy Neutral Community which use PV Panels on facades to produce solar energy, and Realize the cozy outdoor comfort open space, to which the residents have good view inside the buildings.***
 
 
-![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/collage.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/title.jpg)
 
 The introduction image indicates we propose putting PV panels on the facades of the housing type which transformed from typical NYCHA Housings.
 
