@@ -85,7 +85,7 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 ### Analysis Tools
 Walkbility
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20WALKBILITY%20ANALYSIS-01.png)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/outputs.jpg)
 
 
 ![description](../images/PT_AnalysisToolSummary.png)
