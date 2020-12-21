@@ -2,7 +2,7 @@
 
 ***“Can energy efficient community be achieved in 2050 New York ? ”*** 
 
-![description](..https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/blob/main/src/projects/COLLAGE.jpg)
+![description](../projects/COLLAGE.jpg)
 This image should be an ***introduction image*** that clearly describes your computational design model.
 *Please include a short caption.*
 
