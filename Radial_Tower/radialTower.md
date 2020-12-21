@@ -24,19 +24,16 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 
 ![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20SETBACK.jpg)
 
-(2)Tower Footprint General Offset Ratio: The data should smaller than One Side Set Back Ratio.
+(2)Heights Variation: The data should smaller than One Side Set Back Ratio.
 
 ![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20OFFSET.jpg)
 
-(3)Interval Floor Number: This parameter determines how many floors generate a balcony for a group.
+(3)Variation Pattern: This parameter determines how many floors generate a balcony for a group.
 
 ![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20Interval.jpg)
 
 (4)Floor to Floor Height
 
-(5)Podium Height
-
-(6)Balcony Depth
 
 ### Type Rules
 
