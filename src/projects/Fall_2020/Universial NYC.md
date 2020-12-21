@@ -80,6 +80,7 @@ Inequality caused by social structure needs to be alleviated, especially nowaday
 
 
 ###### Background Research Source
+
 *1. Erickson, W.Lee.C., and von Schrader, S.(2016), 2015 Disability Status Report: New York, Ithaca, NY: Cornell University Yang Tan Institute on Employment and Disability*
 
 
@@ -175,9 +176,11 @@ which can be calculated by multiplying average wheelchair speed and the amount o
 
 
 ###### Background Research Source
+<br />
 *1. Manual Wheelchair Use: Bouts of Mobility in Everyday Life*
 
-<br /><br />
+<br />
+<br />
 
 ![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif)
 
