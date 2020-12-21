@@ -72,7 +72,7 @@ Inequality caused by social structure needs to be alleviated, especially nowaday
 ![type classification](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(1).jpg)
 
 ```
-“Analized which metrics can cover which type of disability.”
+“Analyzed which metrics can cover which type of disability.”
 ```
 
 ![relation between types and metrics](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Types%20of%20disability%20and%20Metrics.JPG)
