@@ -84,7 +84,7 @@ Background Research Source
 
 
 ```
-“Through the research of the disability in NYC, we have identified susceptible area to 'automation'<br>
+“Through the research of the disability in NYC, we have identified susceptible area to 'automation'
 which can indicate less previlaged area in our point of view.”
 ```
 
