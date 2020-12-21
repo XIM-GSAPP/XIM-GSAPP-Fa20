@@ -7,7 +7,7 @@ Team: Huiya Zhong, Chengliang Li
 ***Creating Energy-Neutral Community which use PV Panels on envelope to produce solar energy, and Realize the cozy outdoor comfort open space.***
 
 
-![description]()
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/collage.jpg)
 
 The introduction image indicates that the design computational model involved with five different aspects that we think public space will influence the whole city fabric in the future. The street pattern, urban density, walkability, sunlight exposure, and public space programs.
 
