@@ -89,11 +89,37 @@ Background Research Source
 
 ![Background research1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(2).jpg)
 
+Analysis in terms of income and pupulation
+
 ![Background research2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(3).jpg)
+
+Analysis in terms of occupation and education
 
 ![Background research3](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(4).jpg)
 
+Extracted susceptible area in each category
+
 ![Background research4](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(5).JPG)
+
+Found overlapped area and chose this area for our site
+
+![Site perspective coloring](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Perspective%20coloring.JPG)
+
+
+## Location and program
+
+The site represents socially alienated place but at the same time, which has great accessibility to lower manhattan in NYC.<br>
+New community on this site will support socially neglected people in NYC as public institutes and social housings.
+
+Background Image Source
+*1. Google Earth*
+
+![Site FAR analysis](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Analysis_footage.JPG)
+
+Background Research Source
+*1. New York City’s Zoning & Land Use Map*
+
+
 
 
 <br />
