@@ -27,7 +27,7 @@ Team: Gun Young Jang, Jiyong Chun
 ***Super podium*** will enable people to enjoy enough accessibility regardless of different abilities. At the same time, towers on super podium will get bonus FAR for incentive, which richens building design. For this thesis, two building types will be explored, tower+podium and markethall.
 
 
-Daring question:
+#### Daring question:
 
 ```
 “What if multiple buildings share one super podium and street nodes are open to enable people easily access upper ?”
@@ -37,14 +37,14 @@ Daring question:
 
        
 
-### Goals and Metrics
+#### Goals and Metrics
 
 These section should be descriptive of how your team is setting up goals and metrics to determine success.
 
-1. Goal :
+###### 1. Goal :
 Equality in terms of accessibility, visibility, and safety in NYC / supporting community center
 
-2. What we are mesuring : 
+###### 2. What we are mesuring : 
 -The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium
 - X% of the cores have at least three public spaces within ‘x minute distance.’ 
 
@@ -57,13 +57,13 @@ Equality in terms of accessibility, visibility, and safety in NYC / supporting c
 - The number of the views from the surrounding buildings at every node / average of views in the whole area
 - The gap between the highest exposed area and the least exposed area  
 
-3. Why we are masuring it:
+###### 3. Why we are masuring it:
 Inequality caused by social structure needs to be alleviated, especially nowadays
 
 
 
 
-### What Did We Discover?
+#### What Did We Discover?
 
 ```
 “We have classified types of disabilities.”
@@ -79,7 +79,7 @@ Inequality caused by social structure needs to be alleviated, especially nowaday
 
 
 
-Background Research Source
+###### Background Research Source
 *1. Erickson, W.Lee.C., and von Schrader, S.(2016), 2015 Disability Status Report: New York, Ithaca, NY: Cornell University Yang Tan Institute on Employment and Disability*
 
 
@@ -107,21 +107,21 @@ Found overlapped area and chose this area for our site
 ![Site perspective coloring](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Perspective%20coloring.JPG)
 
 
-## Location and program
+### Location and program
 
 The site represents socially alienated place but at the same time, which has great accessibility to lower manhattan in NYC.<br>
 New community on this site will support socially neglected people in NYC as public institutes and social housings.
 
 <br>
-Background Image Source<br />
-  -*1. Google Earth*
+###### Background Image Source<br />
+  *1. Google Earth*
 
 ![Site FAR analysis](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Analysis_footage.JPG)
 
 
 <br>
-Background Research Source<br />
-  -*1. New York City’s Zoning & Land Use Map*
+###### Background Research Source<br />
+  *1. New York City’s Zoning & Land Use Map*
 
 
 
@@ -141,8 +141,8 @@ Background Research Source<br />
 Roads for car: 30ft<br />
 Roads for bike and waling people: 15ft
 
-Background Research Source<br />
-  -*1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual*
+###### Background Research Source<br />
+  *1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual*
 
 
 ![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram1.JPG)
@@ -154,10 +154,45 @@ Background Research Source<br />
 ### Analysis Tools
 
 ![Metrics 1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%201.gif)
-*Please include a short caption describing your diagram.*
+
+*-The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium<br />
+- X% of the cores have at least three public spaces within ‘x minute distance.’ *
+
+**Measure how many public spaces are nearer than ‘x minute distance’** <br />
+which can be calculated by multiplying average wheelchair speed and the amount of time from certain parameters.
+
+**To maximize** accessibility for public spaces from buildings.
+
+**The most number of close public spaces(Blue)** will be be the successful option.
+
+**2 minute distance**<br />
+Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
+
+
+###### Background Research Source
+*1. Manual Wheelchair Use: Bouts of Mobility in Everyday Life*
+
+
 
 ![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif)
-*Please include a short caption describing your diagram.*
+
+*- The percentage of the visible area in view ranges(30ft) at every intersection of roads<br />
+	    - Average view range percentage at every corner*
+
+![View Range Diagram](![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif))
+
+**Measure How large the area of the circle can be seen from every intersection point.**<br />
+The radius(**30ft**) of view range is decided by the distance between inner blocks.
+
+**To maximize Visibility at every corner**, which is especially for people with hearing disabilities. They usually get spatial information with the eye.
+
+The option that has the most ratio of circles which have **more visibility(blue)** will be the successful one.
+
+**Red: 60%**<br />
+**Blue: 100%**
+
+
+
 
 ![Metrics 3](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%203.gif)
 *Please include a short caption describing your diagram.*
