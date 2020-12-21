@@ -12,13 +12,15 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 
 1. Dynamic:
 
-(1)Base Curves: The input data structure must be Grafted.
+(1)Mega Block: It is supposed to be quadrilateral and all the parcels should be inside it.
 
-(2)FAR: The input data will determine the density of the building.
+(2)Parcels: They must be convex polygons and non-curves.
+
+(3)FAR: The input data will determine the density of the building.
 
 2. Static:
 
-(1)Tower Footprint One Side Set Back Ratio: The data range should be between 0 and 0.5.
+(1)Top-Bottom Ratio: The choices are 0.5, 0.7 and 1.
 
 ![description](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM%20-%20SETBACK.jpg)
 
