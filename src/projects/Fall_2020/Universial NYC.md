@@ -66,13 +66,13 @@ Inequality caused by social structure needs to be alleviated, especially nowaday
 #### What Did We Discover?
 
 ```
-“We have classified types of disabilities.”
+“Classified types of disabilities.”
 ```
  
 ![type classification](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(1).jpg)
 
 ```
-“We analized which metrics can cover which type of disability.”
+“Analized which metrics can cover which type of disability.”
 ```
 
 ![relation between types and metrics](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Types%20of%20disability%20and%20Metrics.JPG)
@@ -83,6 +83,7 @@ Inequality caused by social structure needs to be alleviated, especially nowaday
 
 *1. Erickson, W.Lee.C., and von Schrader, S.(2016), 2015 Disability Status Report: New York, Ithaca, NY: Cornell University Yang Tan Institute on Employment and Disability*
 
+<br />
 
 ```
 “Through the research of the disability in NYC, we have identified susceptible area to 'automation'
@@ -107,6 +108,7 @@ Found overlapped area and chose this area for our site
 
 ![Site perspective coloring](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Perspective%20coloring.JPG)
 
+<br />
 
 ### Location and program
 
@@ -119,6 +121,10 @@ New community on this site will support socially neglected people in NYC as publ
 
 *1. Google Earth*
 
+<br />
+
+<br />
+
 ![Site FAR analysis](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Analysis_footage.JPG)
 
 
@@ -128,8 +134,7 @@ New community on this site will support socially neglected people in NYC as publ
 
 *1. New York City’s Zoning & Land Use Map*
 
-
-
+<br />
 
 <br />
 
@@ -138,7 +143,6 @@ New community on this site will support socially neglected people in NYC as publ
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Computational Design Model
 
 <br />
-
 
 
 ![modeling procedure](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling.gif)
@@ -153,31 +157,35 @@ Roads for bike and waling people: 15ft
 *1. Vermont Pedestrian and Bicycle Facility Planning and Design Manual*
 
 <br />
+
 <br />
 
 ![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram1.JPG)
 
+<br />
 
 ![modeling procedure diagram2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram2.JPG)
 
 <br />
+
 <br />
 
 ### Analysis Tools
+
 <br />
 
-#### Metrics 1: 2 minute public spaces
+#### Metrics 1: The average of the number of '2 minute-distance public spaces' from every core
 
 ![Metrics 1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%201.gif)
 
 <br />
 
-*- The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium*<br />
+*- The number of public spaces(park + node) which are not further than ‘2 minute distance’ from the cores of the podium*<br />
 *- X% of the cores have at least three public spaces within ‘x minute distance.’*
 
 <br />
 
-**Measure the percent of cores that have more than 3 public spaces which are nearer than ‘2 minute distance’** <br />
+**Measure the average of the number of '2 minute-distance public spaces' from every core’** <br />
 which can be calculated by multiplying average wheelchair speed and the amount of time from certain parameters.
 
 **To maximize** accessibility for public spaces from buildings.
@@ -185,10 +193,10 @@ which can be calculated by multiplying average wheelchair speed and the amount o
 **The most number of close public spaces(Blue)** will be be the successful option.
 
 <br />
+
 <br />
 
 **Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
-
 
 ###### Background Research Source
 
@@ -197,19 +205,23 @@ which can be calculated by multiplying average wheelchair speed and the amount o
 *1. Manual Wheelchair Use: Bouts of Mobility in Everyday Life*
 
 <br />
+
 <br />
+
+#### Metrics 2: Average view range percentage at every corner
 
 ![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif)
 
-*- The percentage of the visible area in view ranges(30ft) at every intersection of roads*
-
 <br />
-
-*- Average view range percentage at every corner*
 
 ![View Range Diagram](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_View%20Range%20Diagram.JPG)
 
-**Measure How large the area of the circle can be seen from every intersection point.**<br />
+*- The view ranges' diameter is 30ft*
+
+*- Measure How large the area of the circle can be seen from every intersection point.*
+
+<br />
+
 The radius(**30ft**) of view range is decided by the distance between inner blocks.
 
 **To maximize Visibility at every corner**, which is especially for people with hearing disabilities. They usually get spatial information with the eye.
@@ -217,6 +229,7 @@ The radius(**30ft**) of view range is decided by the distance between inner bloc
 The option that has the most ratio of circles which have **more visibility(blue)** will be the successful one.
 
 <br />
+
 <br />
 
 **Red: 60%**
@@ -227,6 +240,7 @@ The option that has the most ratio of circles which have **more visibility(blue)
 
 <br />
 
+#### Metrics 3: Average daylight hours within cold months on buildings
 
 ![Metrics 3](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%203.gif)
 
@@ -258,25 +272,30 @@ The option that has **much daylight hours(red)** will be a successful one.
 
 ###### Red: 10 hours
 
+<br />
+
+<br />
+
+#### Metrics 4: Average daylight hours within cold months on roads
+
+![Metrics 4](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metrics%204_Road.jpg)
+*The same analysis with Metrics 3 on the roads*
+
+#### Metrics 5: CPTED(Crime Prevention Through Environmental Design)
 
 ![Metrics 4](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%204.gif)
-*Please include a short caption describing your diagram.*
 
-![Metrics 5](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%205.gif)
-*Please include a short caption describing your diagram.*
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_CPTED%20Diagram.JPG)
+
+*- The number of the views from the surrounding buildings at every node / average of views in the whole area*
+
+*- The gap between the highest exposed area and the least exposed area*
+
+<br />
+
+<br />
 
 
-Describe how you are deriving your metric.
-
-1. Have a summary image with each analysis tool (examples above)
-1. Use a image / diagram for each custom tool that requires further explanation on how it works. (Example below.)
-
-#### Custom Tool Name
-
-![description](../images/PT_ExampleToolExplanation.png)
-*Please include a short caption describing your diagram.*
-
-[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/tools) to any packaged analysis tools you have documented and posted.
 
 
 
