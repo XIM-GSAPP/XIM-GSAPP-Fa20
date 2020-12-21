@@ -30,8 +30,7 @@ The introduction image indicates we propose putting PV panels on the facades of 
 
 ### Google earth map photo collage ###
 
-![description]()
-Short caption
+The introduction image indicates we propose putting PV panels on the facades of the housing type which transformed from typical NYCHA Housings.
 
 
 ### Goals and Metrics
