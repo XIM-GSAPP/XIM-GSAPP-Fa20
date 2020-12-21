@@ -26,7 +26,7 @@ The introduction image indicates we propose putting PV panels on the facades of 
 ```
 “What if building envelope could be put PV  panels to generate solar energy covering the electricity consumptions of housings?”
 ```
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%201.png)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/collage.jpg)
 
 
 
