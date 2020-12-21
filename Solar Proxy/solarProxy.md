@@ -75,6 +75,7 @@ This tool uses this method of calculating approximately PV energy generation.
 4. We take a 90% of the upper bounds of the result.
 5. We multiply the surfaces' area above the threshold with the acceptable PV efficiency (85%) per sq ft, thus get the approximate PV Panel energy generation value.
 
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/regression.png)
 
 ### Limitations & Context
 <!--add text and/or images that expose potential for bias by stating limitations (ie what does this tool not do,) and the context in which it was created.-->
