@@ -37,30 +37,18 @@ The introduction image indicates we propose putting PV panels on the facades of 
 
 ***Metrics***
 1. Average annual PV Production (Proxy)
-2. Winter outdoor daylight
-3. Summer outdoor daylight
-4. View from
+2. Winter Comfort Open Space
+3. Summer Comfort Open Space
+4. Views to Open Space
 
 ***Goal***
 
-To understand how cityscape as dense and developed as New York could adapt to changing need of public in order to increase over all activity. Evaluate the successfulness of city streets in contemporary as well as future times. Explore how public spaces can reshape the urban fabric/layout.
-
-The sunlight exposure will be based on seasons within the year the average sunlight more than 6-hours exposure community will be determined as a comfortable community
-The thermal analysis will indicates level of Comfort
-The activiites and walkability will help us to utilize the street spaces by pedestrians and adjacent tenants as well as activities within larger context.
-
-***We expect to find a comfortable community or a urban context needs at least 6 hours sunlight exposure, the enough public space as well as the different programs to meet the requirment. Moreover, the public space accessible within 10 mins based on different walkability path.***
+Creating a new type of Energy Neutral Community which use PV Panels on facades to produce solar energy, and Realize the cozy outdoor comfort open space, to which the residents have good view inside the buildings.
 
 
-### What Did We Discover?
 
-At different population density area, the public space programs would be divided into five different types to meet our goal.
-![description]()
+***We expect to find a comfortable community or a urban context needs at least 6 hours sunlight exposure, the enough public space as well as the different programs to meet the requirement. Moreover, the public space accessible within 10 mins based on different walkability path.***
 
-```
-“Through the computational design model, we have identified urban population density and public space numbers trends that allows the city
-to address the social distancing and shortage of public space programs while achieving or increasing sunlight exposure and public accessbility.”
-```
 
 ![description]()
 
@@ -84,7 +72,7 @@ In 2050, city of New York commits to have its first neighborhood designed to let
 
 
 ### Analysis Tools
-Walkbility
+
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/outputs.jpg)
 
 
@@ -133,15 +121,12 @@ If it is larger than 3 but smaller than 5, the building will have same widths’
 
 Illustrating rules and types of computational design model.
 
-[Link]() to any procedural types you have documented and posted.
+[Link](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/radialTower.md) to any procedural types you have documented and posted.
+
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/toKnow.jpg)
 
 
 ### Design Space
-
-```
-"I’m varying this input in this range because of street pattern and population density."
-```
-
 
 
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/inputs.jpg)
