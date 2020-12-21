@@ -156,18 +156,18 @@ Roads for bike and waling people: 15ft
 
 ![Metrics 1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%201.gif)
 
-*-The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium<br />
-- X% of the cores have at least three public spaces within ‘x minute distance.’ *
+*- The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium*<br />
+*- X% of the cores have at least three public spaces within ‘x minute distance.’*
 
-**Measure how many public spaces are nearer than ‘x minute distance’** <br />
+**Measure the percent of cores that have more than 3 public spaces which are nearer than ‘2 minute distance’** <br />
 which can be calculated by multiplying average wheelchair speed and the amount of time from certain parameters.
 
 **To maximize** accessibility for public spaces from buildings.
 
 **The most number of close public spaces(Blue)** will be be the successful option.
 <br />
-**2 minute distance**<br />
-Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
+<br />
+**Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
 
 
 ###### Background Research Source
@@ -177,8 +177,8 @@ Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
 
 ![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif)
 
-*- The percentage of the visible area in view ranges(30ft) at every intersection of roads<br />
-	    - Average view range percentage at every corner*
+*- The percentage of the visible area in view ranges(30ft) at every intersection of roads*<br />
+*- Average view range percentage at every corner*
 
 ![View Range Diagram](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_View%20Range%20Diagram.JPG)
 
