@@ -41,28 +41,60 @@ Daring question:
 
 These section should be descriptive of how your team is setting up goals and metrics to determine success.
 
-1. What are you measuring?
-1. Why you are measuring it?
-1. How does it relate to your goals?
+1. Goal :
+Equality in terms of accessibility, visibility, and safety in NYC / supporting community center
 
-i.e.  
+2. What we are mesuring : 
+-The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium
+- X% of the cores have at least three public spaces within ‘x minute distance.’ 
+
+- The percentage of the visible area in view ranges(30ft) at every intersection of roads
+- Average view range percentage at every corner
+
+- Average daylight hours of month when heating is required for buildings and roads
+
+- CPTED(Crime Prevention Through Environmental Design) Analysis
+- The number of the views from the surrounding buildings at every node / average of views in the whole area
+- The gap between the highest exposed area and the least exposed area  
+
+3. Why we are masuring it:
+Inequality caused by social structure needs to be alleviated, especially nowadays
+
+
+
 
 ### What Did We Discover?
 
-At a high-level, state your conclusions. This engages the audience and helps them better follow along as you build up to how you got there. It makes them want to pay attention.
+```
+“We have classified types of disabilities.”
+```
+ 
+![type classification](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(1).jpg)
+
+```
+“We analized which metrics can cover which type of disability.”
+```
+
+![relation between types and metrics](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Types%20of%20disability%20and%20Metrics.JPG)
+
+
+
+Background Research Source
+*1. Erickson, W.Lee.C., and von Schrader, S.(2016), 2015 Disability Status Report: New York, Ithaca, NY: Cornell University Yang Tan Institute on Employment and Disability*
 
 
 ```
-For example,
-“Through the computational design model, we have identified X and Y trends that allows the city
-to address Z while achieving or increasing A and B.”
+“Through the research of the disability in NYC, we have identified susceptible area to 'automation' which can indicate less previlaged area in our point of view.”
 ```
 
-Explain why the outcome of your model is important by using your:
-1. Background research of your problem and proposal
-1. Future context exploration and transformation of NYC into an hypothetical condition
-1. Urban data mapping
-Not all projets will cover all the above topics. Use what is needed to explain why the issues your project addresses matter.
+![Background research1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(2).jpg)
+
+![Background research2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(3).jpg)
+
+![Background research3](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(4).jpg)
+
+![Background research4](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(5).JPG)
+
 
 <br />
 
