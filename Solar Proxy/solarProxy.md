@@ -39,9 +39,6 @@ Please add relevant plugins to your library for easy usage.
 
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
 
-link Analysis Tool Example.gh
-link grasshopper_tree.jpg
-
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_4_.jpg) -->
 
 ### Modeling Standards
