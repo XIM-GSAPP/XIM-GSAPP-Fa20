@@ -152,7 +152,7 @@ Roads for bike and waling people: 15ft
 
 
 ### Analysis Tools
-
+<br />
 ![Metrics 1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%201.gif)
 
 *-The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium<br />
@@ -164,7 +164,7 @@ which can be calculated by multiplying average wheelchair speed and the amount o
 **To maximize** accessibility for public spaces from buildings.
 
 **The most number of close public spaces(Blue)** will be be the successful option.
-
+<br />
 **2 minute distance**<br />
 Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
 
@@ -172,14 +172,14 @@ Manual Wheelchair Speed : 1.41 ft/s = **84.65 ft/min**
 ###### Background Research Source
 *1. Manual Wheelchair Use: Bouts of Mobility in Everyday Life*
 
-
+<br /><br />
 
 ![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif)
 
 *- The percentage of the visible area in view ranges(30ft) at every intersection of roads<br />
 	    - Average view range percentage at every corner*
 
-![View Range Diagram](![Metrics 2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%202.gif))
+![View Range Diagram](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_View%20Range%20Diagram.JPG)
 
 **Measure How large the area of the circle can be seen from every intersection point.**<br />
 The radius(**30ft**) of view range is decided by the distance between inner blocks.
@@ -191,7 +191,7 @@ The option that has the most ratio of circles which have **more visibility(blue)
 **Red: 60%**<br />
 **Blue: 100%**
 
-
+<br /><br />
 
 
 ![Metrics 3](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Metric%203.gif)
