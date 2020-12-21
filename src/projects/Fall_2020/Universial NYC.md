@@ -86,7 +86,7 @@ Inequality caused by social structure needs to be alleviated, especially nowaday
 <br />
 
 ```
-“Through the research of the disability in NYC, we have identified susceptible area to 'automation'
+“Through the research of the disability in NYC, we have identified susceptible area to 'Social Changes'
 which can indicate less previlaged area in our point of view.”
 ```
 
