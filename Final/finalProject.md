@@ -43,6 +43,8 @@ The introduction image indicates we propose putting PV panels on the facades of 
 3. Summer Comfort Open Space
 4. Views to Open Space
 
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/outputs.jpg)
+
 ***Goal***
 
 Creating a new type of Energy Neutral Community which use PV Panels on facades to produce solar energy, and Realize the cozy outdoor comfort open space, to which the residents have good view inside the buildings.
@@ -63,29 +65,25 @@ Creating a new type of Energy Neutral Community which use PV Panels on facades t
 
 ### Analysis Tools
 
-![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/outputs.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-1.jpg)
 
 
-![description]()
+
+The Solar Proxy tool is related to the solar energy generation on building facades and roofs aiming to simulate the real PV Panel solar production by a less time-consuming proxy.
+
+#### Solar Proxy
+
 *Please include a short caption describing your diagram.*
 
-Describe how you are deriving your metric.
-
-1. Have a summary image with each analysis tool (examples above)
-1. Use a image / diagram for each custom tool that requires further explanation on how it works. (Example below.)
-
-#### Custom Tool Name
-![description]()
-*Please include a short caption describing your diagram.*
-
-[Link]() to any packaged analysis tools you have documented and posted.
+[Link](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/solarProxy.md)
 
 
 
 ### Procedural Types
 
-We defined the five different procedural types for public space program.
-They are restricted by the urban density and building height.
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/radialTower.jpg)
+
+#### Radial Tower
 
 ***Procedural type rule***
 
