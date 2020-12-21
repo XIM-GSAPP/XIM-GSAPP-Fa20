@@ -160,16 +160,6 @@ Roads for bike and waling people: 15ft
 
 <br />
 
-![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram1.JPG)
-
-<br />
-
-![modeling procedure diagram2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram2.JPG)
-
-<br />
-
-<br />
-
 ### Analysis Tools
 
 <br />
@@ -288,51 +278,65 @@ The option that has **much daylight hours(red)** will be a successful one.
 
 ### Procedural Types
 
-Tower and Podium type and Markethall type
+![Procedure type](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Procedural%20Type%20Diagram.JPG.png)
 
-This section focuses on the rules you have defined, range of variability and an explanation of how they relate to you goals and metrics. 
+Red: Tower and Podium type <br />
+Green: Markethall type
 
-[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/types) to any procedural types you have documented and posted.
+**'Super Podium'** enable the disability to move horizontally which is easier and safer.
+**Towers** which are cut out can generate dynamic skylines.
+**Markethall** enables broader nodes which means more openness. 
 
 
+###### Design Rules
 
-![description](../images/PT_DiagramProceduralType.png)
-*Please include a short caption describing your diagram.*
+![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram1.JPG)
 
-![description](../images/PT_DiagramProceduralTypeSketch.png)
-*Please include a short caption describing your diagram.*
+<br />
 
-It is encouraged to use sketching when illustrating rules and types of your computational design model.
-*Please include a short caption describing your diagram.*
+![modeling procedure diagram2](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Modeling%20Diagram2.JPG)
+*The annual average of altitude and angle of sunray was used to calculate the maximum amount of sunlight.*
+
+
+<br />
 
 
 ### Design Space
 
-Road option 1, 2, 3, 4
+
+![modeling procedure diagram1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Street%20Types%20Diagram.gif)
+
+###### Street option
+<br />
+1. Orthogonal grid option
+
+2. Diagonal grid option
+
+3. Curvy option
+
+4. Trail option
 
 Connect exsting roads with grid, diagonal, curvy, and trail without roads for cars types.
 
+<br />
+
 ![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_scout%20variation.gif)
 
-Extreme Node offset min, max Image
+Extreme 'node offset distance' from minimum to maximum
 
-Extreme Far min, max Image
+Far max
 
-Extreme Podium Height min, max Image
-
-
+Podium Height max
 
 ```
 For example,
-"I’m varying this input in this range because of X."
+"Varying 'node offset distance' in this range because the trade off caused by FAR and openness of Nodes"
 ```
 
-Please include simple diagram(s) that illustrate extremes of the design space, animated gif of design space and computational model table. The diagrams and animations should be CLEAR and SIMPLE. These can be animations showing how your model changes one variable at a time, still images explaining the variables, or other drawing types, but you must break down the complexity of your project into intelligible pieces.
+In other words, 
+smaller node means more FAR, but less openness for each node <br />
+broader node means less FAR, but more openness for each node.
 
-
-
-![description](../images/PT_DiagramRangeInput.png)
-*Please include a short caption describing your diagram.*
 
 <br />
 
