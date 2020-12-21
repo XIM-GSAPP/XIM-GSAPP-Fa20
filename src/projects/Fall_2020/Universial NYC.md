@@ -112,11 +112,14 @@ Found overlapped area and chose this area for our site
 The site represents socially alienated place but at the same time, which has great accessibility to lower manhattan in NYC.<br>
 New community on this site will support socially neglected people in NYC as public institutes and social housings.
 
+<br>
 Background Image Source
 *1. Google Earth*
 
 ![Site FAR analysis](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Site%20Analysis_footage.JPG)
 
+
+<br>
 Background Research Source
 *1. New York City’s Zoning & Land Use Map*
 
