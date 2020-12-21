@@ -41,7 +41,7 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 3. If the shortest edge is smaller than a threshold, this type won’t be applied to the parcel.
 4. The ratio of the longest edge to the shortest edge is another parameter: if it is larger than the threshold, the building will have same widths’ wings; if it is larger smaller than the threshold, the wings’ widths will be in proportion, which is relevant to the geometry of the parcel.
 
-![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/radialTower.jpg)
+
 
 ### Use Type If:
 
@@ -61,6 +61,7 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 1. There are some spatial qualities of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
 2. It cannot apply to curving parcels.
 
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Radial_Tower/toKnow.jpg)
 
 ### Required Plugins
 
