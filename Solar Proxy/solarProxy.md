@@ -31,9 +31,9 @@ This tool is related to the solar energy generation on building facades and roof
 
 <b> Troubleshooting </b>
 
-Make sure to properly load the context as it is crucial for to test visibility quality
+Make sure to link to the right EPW first.
 
-If you don't already have the Visibility Quality Tool, please add to your library for easy usage.
+Please add relevant plugins to your library for easy usage.
 
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
 
@@ -89,10 +89,10 @@ Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consecte
 
 ### Required Plugins
 
-1. No specific plugins necessary
+1. Pufferfish
 
 ### Required Files
 
-[Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.3dm)
+[Rhino File](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/solarProxy.3dm)
 
-[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.gh)
+[Grasshopper File](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/solarProxy.gh)
