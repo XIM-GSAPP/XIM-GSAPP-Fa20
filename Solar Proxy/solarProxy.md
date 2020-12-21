@@ -3,7 +3,7 @@
 
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
 
-![description](src/tools/Environmental/PV_Panels/files/description1.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-1.jpg)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
@@ -11,20 +11,21 @@
 
 <!--add your description below-->
 
-This tool is related to the solar energy generation on building facade.
+This tool is related to the solar energy generation on building facades and roofs aiming to simulate the real PV Panel solar production by a less time-consuming proxy.
 
 ### How To Use
 
 <b>Step by Step Instructions:</b>
 
-1. Link to epw file
-2. Right click on "Context" -> Select Multiple and select building obstructions.
-3. Right click on "massing to analyze" -> Select Multiple and select designed massing.
-4. Adjust surface analysis resolution.(bigger the value, less time consuming)
-5. Adjust Threshold of annual solar radiation
-6. Review visual and metric outputs.
+1. Link to EPW file
+2. Build a new folder in your computer and copy the path into the new folder path panel.
+3. Click the Button if this is your first time run this file, or you change the EPW file.
+4. Right click on "Context" -> Select Multiple and select context massing.
+5. Right click on "Massing to analyze" -> Select Multiple and select designed massing.
+6. Adjust surface analysis resolution. (Larger, faster)
+7. Choose which part you want to analyze -> 'facade', 'roof' or 'facade and roof'.
 
-![description](../images/grasshopper_tree.jpg)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-2.jpg)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/grasshopper_tree.JPG) -->
 
@@ -36,7 +37,6 @@ If you don't already have the Visibility Quality Tool, please add to your librar
 
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
 
-! [Analysis Tool Example](../files/Analysis Tool Example.3dm)
 link Analysis Tool Example.gh
 link grasshopper_tree.jpg
 link Analysis Tool Example.ai
