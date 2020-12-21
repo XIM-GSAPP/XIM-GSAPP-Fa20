@@ -55,14 +55,14 @@ The activiites and walkability will help us to utilize the street spaces by pede
 ### What Did We Discover?
 
 At different population density area, the public space programs would be divided into five different types to meet our goal.
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20discover-01.png)
+![description]()
 
 ```
 “Through the computational design model, we have identified urban population density and public space numbers trends that allows the city
 to address the social distancing and shortage of public space programs while achieving or increasing sunlight exposure and public accessbility.”
 ```
 
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20rb.png)
+![description]()
 
 In New York, Full block implementation saw higher levels of activity (78%) than “Open Restaurant” street (62%) and far higher level of activity compared to “Protected Bike Lane” street (51%)
 
@@ -88,7 +88,7 @@ Walkbility
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/outputs.jpg)
 
 
-![description](../images/PT_AnalysisToolSummary.png)
+![description]()
 *Please include a short caption describing your diagram.*
 
 Describe how you are deriving your metric.
