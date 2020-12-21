@@ -308,6 +308,7 @@ Green: Markethall type
 
 ###### Street option
 <br />
+
 1. Orthogonal grid option
 
 2. Diagonal grid option
@@ -329,7 +330,6 @@ Far max
 Podium Height max
 
 ```
-For example,
 "Varying 'node offset distance' in this range because the trade off caused by FAR and openness of Nodes"
 ```
 
@@ -337,8 +337,14 @@ In other words,
 smaller node means more FAR, but less openness for each node <br />
 broader node means less FAR, but more openness for each node.
 
-
 <br />
+
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_FAR%20Variation.gif)
+
+```
+"Varying 'FAR'"
+```
+
 
 ***
 
@@ -348,37 +354,15 @@ broader node means less FAR, but more openness for each node.
 
 ### Exploring the Design Space
 
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Design%20Variation.gif)
+
 Scout design variation
 
-live demo street 1
-
-live demo street 2
-
-live demo street 3
-
-live demo street 4
 
 ### Results
 
-Were certain metrics inconclusive? Were there unexpected correlations? What are the GENERAL trends in your data? What are your SPECIFIC insights/findings? You can annotate right on top of Scout screenshots or translate insights to diagrams. How does performance (metrics) relate to form (inputs)?
-
-![description](../images/PT_PerformanceSummarySlide.png)
-*Please include a short caption describing your diagram.*
-
-### Design Comparison
-
-Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparison image and key take-aways. Include an option that gives context to the performance as a baseline or a benchmark. For example, it could be the existing context or an option with your target density but with traditional development patterns (i.e., densification without design innovation.)
-
-Make sure to include both images and the data. Provide a visual hierarchy so that we can see which data are most relevant, which are high vs.  low. These can be simple charts, or even just text. Focus on clearly communicating the data. 
-
-Zoom in to talk about the best option(s) and the worst. Take a few images to detail why these options perform well or poorly. The point of this entire exercise is to create a data-driven methodology for making DECISIONS, so choose which option or options are the best and defend those choices.
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Relation%20between%20CPTED%20and%20Daylight%20hours%20on%20street.png)
 
 ### Conclusions and Next Steps
 
-For the concluding text of your computational design model documentation, think about the following questions as you reinforce the reason why the results your team's model should implemented.
-
-1. How do you recommend the results of your model be used? Who should learn from this?
-1. Govern
-1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
-1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
-2. Refering to the outcome of '2 minute public spaces' analysis, design more public spaces not only near buildings but also in the buildings
+Refering to the outcome of '2 minute public spaces' analysis, design more public spaces not only near buildings but also in the buildings
