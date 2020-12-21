@@ -2,7 +2,7 @@
 
 *** Universal Design with super podiums and openness
 
-![introduction image](../D:\2020_Fall_Columbia University_GSAPP_MSAAD\X-info Modeling\XIM_Teamwork\Procedural modeling\6.jpg)
+(/D:\2020_Fall_Columbia University_GSAPP_MSAAD\X-info Modeling\XIM_Teamwork\Procedural modeling\6.jpg)
 
 
 <br />
