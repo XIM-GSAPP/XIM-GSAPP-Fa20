@@ -84,7 +84,8 @@ Background Research Source
 
 
 ```
-“Through the research of the disability in NYC, we have identified susceptible area to 'automation' which can indicate less previlaged area in our point of view.”
+“Through the research of the disability in NYC, we have identified susceptible area to 'automation'<br>
+which can indicate less previlaged area in our point of view.”
 ```
 
 ![Background research1](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Disability%20Background%20Research%20(2).jpg)
