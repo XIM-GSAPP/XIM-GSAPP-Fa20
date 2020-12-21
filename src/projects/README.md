@@ -22,7 +22,7 @@ Extreme carbon emission events are causing climate change. How Will The New York
 ```
 
 
-![description](../images/Final_Project_Temple_Collage_Image.jpg)
+![description](../projects/%E5%9B%BE%E7%89%871.png)
 This collage shows the urban grid type centered around a subway station.
 
 
@@ -74,24 +74,24 @@ In 2050, New York City ensures all New Yorkers have access to neighborhood open 
 
 <br />
 
-![description](../images/PT_CompDesignModelDiagram.png)
+![description](../projects/%E5%9B%BE%E7%89%872.png)
 
 
 ### Analysis Tools
 * Beneficial Daylight for Facade*
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](../projects/METRIC%20facade.jpg)
 
 Metric 01: Facade meet requirement: summer sun<6hr/day
 Metric 02: Facade meet requirement: winter sun>3hr/day 
 
 * Walkability *
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](../projects/METRIC3.jpg)
 
 Metric 03: Population that has 7-min access to Metro Station
 Metric 04: Population that has 3-min access to Green Space
 
 * Green Space Quality *
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](../projects/METRIC2.jpg)
 
 Metric 05: Green Space that has average 4 hr sunlight/day 
 Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sunlight/Day
@@ -99,46 +99,38 @@ Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sun
 
 
 ####  Beneficial Daylight for Facades Analysis Tool
-![description](../images/PT_ExampleToolExplanation.png)
-*Please include a short caption describing your diagram.*
+![description](../projects/T-MAIN%20PHOTO2.jpg)
+*This analysis tool explores building in winter and summer sunlight time. In consideration of energy consumption, the building should reduce direct sunlight in summer as much as possible to prevent heat, and increase direct sunlight in winter to ensure insulation. Area that meets both summer shading and winter lighting can be understood as a sustainable area. This Analysis Tool visualizes the distribution of these sustainable areas.*
 
-[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/tools) to any packaged analysis tools you have documented and posted.
+[Link](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Average_Daylight/README.md) 
 
 
 
 ### Tower with Balconies for Optimal Daylight.
+![description](../projects/P-XIM%20-%20MAIN%20PHOTO.jpg)
+*This collection of structures explores the ways in which the tower with balconies for optimal daylight can be built and modified. This Grasshopper procedural type helps optimize the basic podium curve into 4-sides rectangular , all following user inputs and pre-set procedural rules.*
 
-This section focuses on the rules you have defined, range of variability and an explanation of how they relate to you goals and metrics. 
+[Link](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/blob/main/src/types/Tower_with_Balconies/README.md) 
 
-[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/types) to any procedural types you have documented and posted.
-
-![description](../images/PT_DiagramProceduralType.png)
-*Please include a short caption describing your diagram.*
-
-![description](../images/PT_DiagramProceduralTypeSketch.png)
-*Please include a short caption describing your diagram.*
-
-It is encouraged to use sketching when illustrating rules and types of your computational design model.
-*Please include a short caption describing your diagram.*
 
 
 ### Procedural Types
 
 * 01: Urban Grid Type*
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](../projects/GRID%20TYPE.jpg)
 
 
 * 02: Tower Distribution Type*
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](../projects/TOWER%20DISTRIBUTION.jpg)
 
 * 03: Green Space Density*
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](../projects/GREEN%20SPACE.jpg)
 
 * 04: Balcony Shape Type*
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](../projects/BALCONY%20SHAPE.jpg)
 
 *  05: Tower Balcony Depth/Height Ratio*
-![description](../images/PT_SummaryAnalysisTool.png)
+![description](../projects/BALCONY%20ratio.jpg)
 <br />
 
 ***
@@ -152,15 +144,15 @@ It is encouraged to use sketching when illustrating rules and types of your comp
 We analyzed data from three dimensions which are sustainble facade, walkability and green space quality, and obtained 160 models.
 High and low-performing options were selected, and the diagram below showed the options that performed well in the specific metrics but poorly in others.
 
-![description](../images/PT_PerformanceSummarySlide.png)
-*Please include a short caption describing your diagram.*
+![description](../projects/compare%20option.jpg)
+*High and low-performing options*
 
 ### Design Comparison
 
 We also compare the dimensions synthetically and get several sets of good and bad choices. In the model with better performance, the proportion of radial Metro block is the highest. Among the poor performing models, rotated NYC blocks accounted for the highest percentage. The figure below shows the two sets of models with the best and worst average performance.
 
-![description](../images/PT_PerformanceSummarySlide.png)
-*Please include a short caption describing your diagram.*
+![description](../projects/CHOICES.jpg)
+*The best and worst average performance*
 
 
 ### Conclusions and Next Steps
