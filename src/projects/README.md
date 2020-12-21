@@ -3,8 +3,7 @@
 ***“Can energy efficient community be achieved in 2050 New York ? ”*** 
 
 ![description](../projects/COLLAGE.jpg)
-This image should be an ***introduction image*** that clearly describes your computational design model.
-*Please include a short caption.*
+***This collage shows the urban grid type centered around a subway station.*** 
 
 <br />
 
@@ -21,9 +20,17 @@ Extreme carbon emission events are causing climate change. How Will The New York
 “Can energy efficient community be achieved in 2050 New York ? ”
 ```
 
+### What Did We Discover?
 
 ![description](../projects/%E5%9B%BE%E7%89%871.png)
-This collage shows the urban grid type centered around a subway station.
+***“ONE NYC 2050” A VISION OF NEW YORK CITY IN 2050*** 
+
+```
+In 2050, New York City is prepared for a changing climate, and is no longer reliant on fossil fuels.
+In 2050, New Yorkers no longer rely on cars.
+In 2050, New York City achieves carbon neutrality and 100% clean electricity.
+In 2050, New York City ensures all New Yorkers have access to neighborhood open spaces and cultural resources.
+```
 
 
 
@@ -31,12 +38,6 @@ This collage shows the urban grid type centered around a subway station.
 
 Goals：Creating a community Configuration can make the building meet the energy efficiency of winter heat preservation and summer heat insulation, provide convenient access to the metro station and urban public green space for residents, and ensure the green space has sufficient sunlight.
 
-
-```
-For example,
-“Through the computational design model, we have identified X and Y trends that allows the city
-to address Z while achieving or increasing A and B.”
-```
 
 Metric 01: facade sustainbility
 In consideration of energy consumption, the building should reduce direct sunlight in summer as much as possible to prevent heat, and increase direct sunlight in winter to ensure insulation. Area that meets both summer shading and winter lighting can be understood as a sustainable area.
@@ -52,18 +53,6 @@ The amount and area of green space often cannot be directly used to judge whethe
 
 Metric 05: walkability to green space with enough sunlight
 Light and accessibility of green space are both important, so the more intuitive goal is to make it easier for people to reach good green space with enough light.
-
-### What Did We Discover?
-
-
-***“ONE NYC 2050” A VISION OF NEW YORK CITY IN 2050*** 
-
-```
-In 2050, New York City is prepared for a changing climate, and is no longer reliant on fossil fuels.
-In 2050, New Yorkers no longer rely on cars.
-In 2050, New York City achieves carbon neutrality and 100% clean electricity.
-In 2050, New York City ensures all New Yorkers have access to neighborhood open spaces and cultural resources.
-```
 
 
 <br />
@@ -82,18 +71,21 @@ In 2050, New York City ensures all New Yorkers have access to neighborhood open 
 ![description](../projects/METRIC%20facade.jpg)
 
 Metric 01: Facade meet requirement: summer sun<6hr/day
+
 Metric 02: Facade meet requirement: winter sun>3hr/day 
 
 * Walkability *
 ![description](../projects/METRIC3.jpg)
 
 Metric 03: Population that has 7-min access to Metro Station
+
 Metric 04: Population that has 3-min access to Green Space
 
 * Green Space Quality *
 ![description](../projects/METRIC2.jpg)
 
 Metric 05: Green Space that has average 4 hr sunlight/day 
+
 Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sunlight/Day
 
 
