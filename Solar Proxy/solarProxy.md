@@ -86,7 +86,9 @@ The tool is still under development. We are still trying to figure out the corre
 
 ### Examples
 <!--add images and text to describe a use case below-->
-Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here is how we used this tool on a project!
+
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Solar%20Proxy/tool-5.jpg)
 
 
 ### Required Plugins
