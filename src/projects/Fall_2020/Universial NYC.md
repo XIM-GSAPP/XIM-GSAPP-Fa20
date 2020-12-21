@@ -44,22 +44,18 @@ Team: Gun Young Jang, Jiyong Chun
 Equality in terms of accessibility, visibility, and safety in NYC / supporting community center
 
 ###### 2. What we are mesuring : 
-- The number of public spaces(park + node) which are not further than ‘x minute distance’ from the cores of the podium
-- X% of the cores have at least three public spaces within ‘x minute distance.’ 
+- The percentage of the cores have at least three public spaces within ‘2 minute distance.’ 
 
-- The percentage of the visible area in view ranges(30ft) at every intersection of roads
-- Average view range percentage at every corner
+- The average percentage of the visibly opened area in view ranges of 30ft at every intersection of roads
 
-- Average daylight hours of month when heating is required for buildings and roads
+- Average daylight hours of cold months when heating is required for buildings and streets
 
 - CPTED(Crime Prevention Through Environmental Design) Analysis
-- The number of the views from the surrounding buildings at every node / average of views in the whole area
-- The gap between the highest exposed area and the least exposed area  
+_The number of the views from the surrounding buildings at every node / average of views in the whole area
 
 ###### 3. Why we are masuring it:
+
 Inequality caused by social structure needs to be alleviated, especially nowadays
-
-
 
 
 #### What Did We Discover?
