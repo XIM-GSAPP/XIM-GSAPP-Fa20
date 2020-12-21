@@ -69,29 +69,31 @@ Light and accessibility of green space are both important, so the more intuitive
 ### Analysis Tools
 
 ***Beneficial Daylight for Facade*** 
-![description](../projects/METRIC%20facade.jpg)
 
 Metric 01: Facade meet requirement: summer sun<6hr/day
 
 Metric 02: Facade meet requirement: winter sun>3hr/day 
 
-<br />
+![description](../projects/METRIC%20facade.jpg)
+
 
 ***Walkability*** 
-![description](../projects/METRIC3.jpg)
 
 Metric 03: Population that has 7-min access to Metro Station
 
 Metric 04: Population that has 3-min access to Green Space
 
-<br />
+![description](../projects/METRIC3.jpg)
+
+
 
 ***Green Space Quality*** 
-![description](../projects/METRIC2.jpg)
 
 Metric 05: Green Space that has average 4 hr sunlight/day 
 
 Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sunlight/Day
+
+![description](../projects/METRIC2.jpg)
 
 <br />
 
