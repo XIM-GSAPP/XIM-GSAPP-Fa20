@@ -75,6 +75,8 @@ Metric 01: Facade meet requirement: summer sun<6hr/day
 
 Metric 02: Facade meet requirement: winter sun>3hr/day 
 
+<br />
+
 ***Walkability*** 
 ![description](../projects/METRIC3.jpg)
 
@@ -82,13 +84,14 @@ Metric 03: Population that has 7-min access to Metro Station
 
 Metric 04: Population that has 3-min access to Green Space
 
+<br />
+
 ***Green Space Quality*** 
 ![description](../projects/METRIC2.jpg)
 
 Metric 05: Green Space that has average 4 hr sunlight/day 
 
 Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sunlight/Day
-
 
 <br />
 
