@@ -146,15 +146,6 @@ Illustrating rules and types of computational design model.
 
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/inputs.jpg)
 
-***Urban condition 1 with public space***
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF1.gif)
-
-
-***Urban condition 2 with public space***
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF2.gif)
-
-***Urban condition 3 with public space***
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20GIF3.gif)
 
 <br />
 
@@ -184,18 +175,15 @@ Were certain metrics inconclusive? Were there unexpected correlations? What are 
 ![description]()
 *Please include a short caption describing your diagram.*
 
-### Design Comparison
 
-Create an image comparing several options that are representative of the trends in your analysis. This should include high and low-performing options, options that perform well in some metrics but poorly in others, options that do a good job of balancing trade-offs, etc. Include text explaining the comparison image and key take-aways. Include an option that gives context to the performance as a baseline or a benchmark. For example, it could be the existing context or an option with your target density but with traditional development patterns (i.e., densification without design innovation.)
+### Conclusions
 
-Make sure to include both images and the data. Provide a visual hierarchy so that we can see which data are most relevant, which are high vs.  low. These can be simple charts, or even just text. Focus on clearly communicating the data.
+1. We made two Scout files. The only difference is that one of them count roof into the solar analysis while the other doesn't. And thus the results varies a lot. If we only put solar panels on facades, the top/bottom = 0.5 ratio one has the best performance. However, since the top/bottom = 1 ratio one has the largest roof, its performance is the best when the roof is included.
+2. Generally, the summer and winter comforts are trade-off metrics.
+3. The smaller the top/bottom ratio is , the better views to open space the building have.
 
-Zoom in to talk about the best option(s) and the worst. Take a few images to detail why these options perform well or poorly. The point of this entire exercise is to create a data-driven methodology for making DECISIONS, so choose which option or options are the best and defend those choices.
+### Next Steps
 
-### Conclusions and Next Steps
-
-For the concluding text of your computational design model documentation, think about the following questions as you reinforce the reason why the results your team's model should implemented.
-
-1. How do you recommend the results of your model be used? Who should learn from this?
-1. If we are treating this as a proof-of-concept to illustrate the viability of this type of computational approach to the city, what are the next steps for implementation?
-1. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
+1. Develop the Solar Proxy Tool.
+2. New types will be designed.
+3. Your project evaluation relative to the anti-bias rubric we developed. These include identifying limitations, what this does and does not do or include.
