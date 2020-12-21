@@ -28,26 +28,6 @@ The introduction image indicates we propose putting PV panels on the facades of 
 ```
 ![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/collage.jpg)
 
-
-
-```
-“What if, more outdoor seating is obtained through converting the motorway into recreational spaces?”
-```
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%202.png)
-
-
-
-```
-“What if, the higher population area required different public space types?”
-```
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq5.jpg)
-
-```
-“What if, increased area of public spaces are fragmented and temporarily privatized through shrinking of the existing cities blocks?”
-```
-![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%203.png)
-
-
 ### Google earth map photo collage ###
 
 ![description]()
