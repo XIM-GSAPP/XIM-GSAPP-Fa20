@@ -24,7 +24,7 @@ The introduction image indicates that the design computational model involved wi
 ***"Under an 80 by 50 scenario, our aging buildings will need to be transformed into highly energy efficient structures and powered by renewable sources of energy, and new buildings will need to meet the highest possible energy performance standards.”—— One City: Built to Last***
 
 ```
-“What if, enlarged the public space and provided amenity programs are achieved through decreasing the transportation pressure?”
+“What if building envelope could be put PV  panels to generate solar energy covering the electricity consumptions of housings?”
 ```
 ![description](https://github.com/tterrytang/XIM-GSAPP-Fa20/blob/main/src/images/VT_BST%20dq%201.png)
 
@@ -57,9 +57,10 @@ Short caption
 ### Goals and Metrics
 
 ***Metrics***
-1. Average daily hours analysis
-2. Number of outdoor eating within 8 mins walking
-3. Surface area/ volume normailzed by a extruded tower
+1. Average annual PV Production (Proxy)
+2. Winter outdoor daylight
+3. Summer outdoor daylight
+4. View from
 
 ***Goal***
 
