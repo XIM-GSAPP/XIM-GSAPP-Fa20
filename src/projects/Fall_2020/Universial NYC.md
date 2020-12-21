@@ -1,10 +1,9 @@
 # Universal NYC
 
-***Subtitle*** One sentence that summarize you project.
+*** Universal Design with super podiums and openness
 
-![description](../images/Final_Project_Temple_Intro_Image.png)
-This image should be an ***introduction image*** that clearly describes your computational design model.
-*Please include a short caption.*
+![introduction image](/D:\2020_Fall_Columbia University_GSAPP_MSAAD\X-info Modeling\XIM_Teamwork\Procedural modeling\6.jpg)
+
 
 <br />
 
@@ -170,3 +169,4 @@ For the concluding text of your computational design model documentation, think 
 ### Overall format and flow of text:
 
 For each of the sections, write the minimum amount that is necessary for your project to be understood by someone reading your post. Each section needs to stand alone but it should not be text heavy. Someone should be able to read through your post in 10 - 15 minutes.
+
