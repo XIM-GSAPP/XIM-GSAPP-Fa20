@@ -49,4 +49,4 @@ No specific plugins necessary
 
 ### Required Files 
 
-![Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/Row_House/ROW_HOUSE.gh)
+[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/Row_House/ROW_HOUSE.gh)
