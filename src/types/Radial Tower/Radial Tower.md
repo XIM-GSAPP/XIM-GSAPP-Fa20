@@ -1,58 +1,75 @@
-# Courtyard Type For Any Lot Size
+# Radial Tower for Solar Energy
 
-![description](../images/gh_procedural_type_ex4.jpg)
+![description](src/types/Radial Tower/file/radialTower.jpg)
 
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/gh_procedural_pype_ex4.jpg) -->
+### Type Description
 
-### Type Description 
+This type is a redesign of the existing NYCHA Building type. Generally in each building there is a central vertical circulation core and radial residential wings, the number of which depends on how many sides the parcel has. This is a very typical building of NYCHA and it is efficient in terms of spatial organization and programs distribution. The purpose of these iterations are trying to optimize the solar energy production potential of putting PV Panels on building facade.
 
-This collection of structures explores the ways in which the courtyard building typology can be built and modified. This Grasshopper procedural type helps divide the lots into different groups to create a horizontal and vertical courtyard as well as solid structure, all following user inputs and pre-set procedural rules.
+![description](src/types/Radial Tower/file/ghScreenShot.png)
 
-### Required inputs 
+### Required inputs
 
-1. Dynamic: Lots and FAR
-These are the dimensions that will determine what type of structure will be courtyards or simply solid buildings. 
+1. Dynamic:
 
-1. Static: Floor to Floor Height
+(1)Mega Block: It is supposed to be quadrilateral and all the parcels should be inside it.
 
-### Type Rules 
+(2)Parcels: They must be convex polygons and non-curves.
 
-1. If the length of the smallest face of the courtyard is more than 85% the width of the bay of the courtyard building, then the building type should remain a typical courtyard building. 
-1. If any of the face of the structure on the x-Axis can accommodate a courtyard by following the parameter set in the first rule, then the structure will have a horizontal structure. 
-1. If the structure size and height cannot accommodate a vertical or horizontal (z-axis facade) courtyard, then the structure should remain as solid.
+(3)FAR: The input data will determine the density of the building.
 
-![description](../images/gh_procedural_type_ex3.jpg)
+2. Static:
 
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/gh_procedural_type_ex3.jpg) -->
+(1)Top-Bottom Ratio: The choices are 0.5, 0.75 and 1.
 
-### Use Type If: 
+![description](src/types/Radial Tower/file/ratios-01.jpg)
 
-1. Your team is interested in exploring how courtyard typology could be used within your project.
-1. Your team is interested in including vertical and horizontal courtyards.
-1. If your team want to conduct studies of sunlight and wind, for example, based on the courtyard building typology.
+(2)Heights Variation: The data should smaller than One Side Set Back Ratio.
+
+![description](src/types/Radial Tower/file/heightsVariation.jpg)
+
+(3)Variation Pattern: This parameter determines the direction in which the heights of buildings change.
+
+
+(4)Floor to Floor Height.
+
+
+### Type Rules
+
+1. Based on typical NYCHA Housing types. It applies to convex polygon parcels.
+2. It cannot apply to curving parcels.
+3. The ratio of the longest edge to the shortest edge is an important parameter: if it is larger than 3 but smaller than 5, the building will have same widths’ wings; if it is smaller than 3,  the wings’ widths will be in proportion, which is relevant to the geometry of the parcel.
+
+
+
+### Use Type If:
+
+1. Your team has interests in the typologies of NYCHA Housing.
+2. Your team has interests in studying the solar energy production potential of PV Panels on the facades.
+3. Your team wants to conduct studies of sunlight, view analysis and public spaces shared by each resident in the parcel.
+
 
 ### Not Recommended to Use Type If:
 
-1. Your team is exploring more complex geometries because the end result might not meet the procedural rules and the end result might not be what you want.
-1. The density target of your project is very high.
-1. The height of your structures is very low.
-1. Your team is exploring different building typologies other than courtyard typology.
+1. Your team is more interested in more complex geometries.
+2. The street grid of your team has curves.
+3. You want to create a totally new type instead of transferring from the existing NYCHA types.
 
-![description](../images/gh_procedural_type_combo.jpg)
+### What to Know & Limitations
 
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/gh_procedural_type_ex3.jpg) -->
+1. There are some spatial potentials of the type: in some cases, several buildings’ wings enclose the space to become courtyards or semi-courtyards spaces.
+2. If the area of the parcel is smaller than the threshold, this type won’t be applied to the parcel.
+3. If the shortest edge is smaller than the threshold, this type won’t be applied to the parcel.
+4. If the ratio of the longest edge to the shortest edge is larger than 5, this type won’t be applied to the parcel.
 
-### What to Know & Limitations 
+![description](src/types/Radial Tower/file/toKnow.jpg)
 
-1. Courtyard offset in cluster. If you want to have each of the courtyard to offset separately then, you will have to modify the definition of the type.
-1. This procedural type only supports building bay depth suitable for single loaded corridor residential or side loaded office.
+### Required Plugins
 
-### Required Plugins 
-
-1. No specific plugins necessary
+No specific plugins necessary
 
 ### Required Files
 
-[Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.3dm)
+[Rhino File](src/types/Radial Tower/file/Radial Tower for Solar Energy.3dm)
 
-[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.gh)
+[Grasshopper File](src/types/Radial Tower/file/Radial Tower for Solar Energy.gh)
