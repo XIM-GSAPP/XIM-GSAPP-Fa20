@@ -2,7 +2,7 @@
 
 
 
-![description](../images/Row_House_1.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/Row_House_1.png)
 
 ### Type Description
 
@@ -13,7 +13,7 @@ Row House type will be pulled in order to connect individual yard areas into a c
 Input type: Static
 Inputs: Lots, Streets Center Line and Building Height, these will determine footprint area, location and height extrusion for the buildings. 
 
-![description](../images/Row_House_3.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/Row_House_3.png)
 
 ### Type Rules 
 
@@ -28,7 +28,7 @@ Inputs: Lots, Streets Center Line and Building Height, these will determine foot
 3. Your team has small lots resulting from your parcel-making logic.
 4. Your team wants to conduct studies of sunlight and wind, for example, based on the row house building typology.
 
-![description](../images/Row_House_2.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/Row_House_2.png)
 
 ### Not Recommended to Use Type If:
 
@@ -49,4 +49,4 @@ No specific plugins necessary
 
 ### Required Files 
 
-![Grasshopper File](../ROW_HOUSE.gh)
+![Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/Row_House/ROW_HOUSE.gh)
