@@ -132,7 +132,7 @@ These areas are subsequently connected into a network of shared urban common spa
 ![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_DiagramFAR.png)
 *Relationship between FAR and Building Typologies*
 
-[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/types/Row_House)
+[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Row_House/Row_House.md)
 
 
 ### Design Space
