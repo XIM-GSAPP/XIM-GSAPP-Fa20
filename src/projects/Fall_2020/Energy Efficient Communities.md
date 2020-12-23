@@ -82,7 +82,7 @@ Metric 03: Population that has 7-min access to Metro Station
 
 Metric 04: Population that has 3-min access to Green Space
 
-![description](../projhttps://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/METRIC3.jpgects/METRIC3.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/METRIC3.jpgects/METRIC3.jpg)
 
 
 
@@ -130,7 +130,7 @@ Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sun
 
 
 *02: Tower Distribution Type*
-![description](../projects/https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/TOWER_DISTRIBUTION.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/TOWER_DISTRIBUTION.jpg)
 
 *03: Green Space Density*
 ![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/GREEN_SPACE.jpg)
