@@ -82,7 +82,7 @@ Metric 03: Population that has 7-min access to Metro Station
 
 Metric 04: Population that has 3-min access to Green Space
 
-![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/METRIC3.jpgects/METRIC3.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/METRIC3.jpg)
 
 
 
