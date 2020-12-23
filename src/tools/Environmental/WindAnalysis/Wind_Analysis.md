@@ -68,8 +68,6 @@ This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur
 <!--add images and text to describe a use case below-->
 Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/tool_example_2.jpg)
-
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
 Some more text here perhaps.
