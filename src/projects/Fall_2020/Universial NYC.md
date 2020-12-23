@@ -349,15 +349,63 @@ broader node means less FAR, but more openness for each node.
 
 ### Exploring the Design Space
 
+
 ![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Design%20Variation.gif)
 
 Scout design variation
 
-
+ <br />
+ 
+ 
 ### Results
 
-![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Relation%20between%20CPTED%20and%20Daylight%20hours%20on%20street.png)
+ <br />
+ 
+METRICS IN ORDER OF PRIORITIES
+
+1. CPTED = MUTUAL CARE
+2. VIEW RANGE = SAFETY
+3. 2 MINUTES DISTANCE OPEN SPACES = ACCESSIBILITY
+4. DAY LIGHT ON STREETS = MENTAL HEALTH
+5. DAY LIGHT ON BUILDINGS = MENTAL HEALTH
+
+
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/VS_BST%20Wilson%20GunYoungJang%20JiyongChun%20FA20%2030_Results%20and%20Conclusion2.JPG)
+
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/VS_BST%20Wilson%20GunYoungJang%20JiyongChun%20FA20%2031_Results%20and%20Conclusion3.JPG)
+
+
+We found that Daylight on streets, Daylight on buildings, and CPTED analysis were not independent variables but interrelated variables with other metrics.
+This means that there is no optimized design option in every metrics.
+Therefore, it is needed to prioritize the metrics to conclude the final optimized design.
+
+First of all, to realize the community for people with disabilities, CPTED is the most crucial metric since mutual care and sustainability can make this community possible in the long term.
+Next, generally, most of the residents have physical difficulties. This is why SAFETY(VIEW RANGE) and ACCESSIBILITY are second and third only to CPTED.
+Last, the daylight on streets and buildings can improve residents' and visitors' mental health and living qualities.
+
+ <br />
+ 
+  <br />
 
 ### Conclusions and Next Steps
+
+ <br />
+
+###### Conclusions
+
+Street option 1 <br />
+Far option 4 <br />
+Podium height 35ft <br />
+Node offest distance 30ft <br />
+
+
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/VS_BST%20Wilson%20GunYoungJang%20JiyongChun%20FA20%2029_Results%20and%20Conclusion1.JPG)
+
+
+We concluded that the selected design (street option 1/ FAR option 4/ Podium height 35ft/ Node offeset distance 30ft) is the most optimized design for the community for the people with disabilities.
+
+ <br />
+
+###### Next Steps
 
 Refering to the outcome of '2 minute public spaces' analysis, design more public spaces not only near buildings but also in the buildings
