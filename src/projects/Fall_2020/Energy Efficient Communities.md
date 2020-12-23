@@ -2,7 +2,7 @@
 
 ***“Can energy efficient community be achieved in 2050 New York ? ”*** 
 
-![description](../projects/COLLAGE.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/COLLAGE.jpg)
 ***This collage shows the urban grid type centered around a subway station.*** 
 
 <br />
@@ -22,7 +22,7 @@ Extreme carbon emission events are causing climate change. How Will The New York
 
 ### What Did We Discover?
 
-![description](../projects/%E5%9B%BE%E7%89%871.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/OneNYC.png)
 ***“ONE NYC 2050” A VISION OF NEW YORK CITY IN 2050*** 
 
 ```
@@ -62,7 +62,7 @@ Light and accessibility of green space are both important, so the more intuitive
 
 <br />
 
-![description](../projects/%E5%9B%BE%E7%89%872.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/typediagram.png)
 
 
 ### Analysis Tools
@@ -73,7 +73,7 @@ Metric 01: Facade meet requirement: summer sun<6hr/day
 
 Metric 02: Facade meet requirement: winter sun>3hr/day 
 
-![description](../projects/METRIC%20facade.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/METRIC_facade.jpg)
 
 
 ***Walkability*** 
@@ -82,7 +82,7 @@ Metric 03: Population that has 7-min access to Metro Station
 
 Metric 04: Population that has 3-min access to Green Space
 
-![description](../projects/METRIC3.jpg)
+![description](../projhttps://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/METRIC3.jpgects/METRIC3.jpg)
 
 
 
@@ -92,7 +92,7 @@ Metric 05: Green Space that has average 4 hr sunlight/day
 
 Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sunlight/Day
 
-![description](../projects/METRIC2.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/METRIC2.jpg)
 
 <br />
 
@@ -100,7 +100,7 @@ Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sun
 
 
 ####  Beneficial Daylight for Facades Analysis Tool
-![description](../projects/T-MAIN%20PHOTO2.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/T-MAIN_PHOTO2.jpg)
 *This analysis tool explores building in winter and summer sunlight time. In consideration of energy consumption, the building should reduce direct sunlight in summer as much as possible to prevent heat, and increase direct sunlight in winter to ensure insulation. Area that meets both summer shading and winter lighting can be understood as a sustainable area. This Analysis Tool visualizes the distribution of these sustainable areas.*
 
 [Link](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Average_Daylight/README.md) 
@@ -109,7 +109,7 @@ Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sun
 
 
 ### Tower with Balconies for Optimal Daylight.
-![description](../projects/P-XIM%20-%20MAIN%20PHOTO.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/P-XIM-MAIN%20PHOTO.jpg)
 *This collection of structures explores the ways in which the tower with balconies for optimal daylight can be built and modified. This Grasshopper procedural type helps optimize the basic podium curve into 4-sides rectangular , all following user inputs and pre-set procedural rules.*
 
 [Link](https://github.com/YuanEleanorLiu/XIM-GSAPP-Fa20/blob/main/src/types/Tower_with_Balconies/README.md) 
@@ -123,23 +123,23 @@ Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sun
 
 ### Procedural Types
 
-![description](../projects/population.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/population.png)
 
 *01: Urban Grid Type*
-![description](../projects/GRID%20TYPE.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/GRIDTYPE.jpg)
 
 
 *02: Tower Distribution Type*
-![description](../projects/TOWER%20DISTRIBUTION.jpg)
+![description](../projects/https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/TOWER_DISTRIBUTION.jpg)
 
 *03: Green Space Density*
-![description](../projects/GREEN%20SPACE.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/GREEN_SPACE.jpg)
 
 *04: Balcony Shape Type*
-![description](../projects/BALCONY%20SHAPE.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/BALCONY_SHAPE.jpg)
 
 *05: Tower Balcony Depth/Height Ratio*
-![description](../projects/BALCONY%20ratio.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/BALCONY_ratio.jpg)
 <br />
 
 ***
@@ -153,13 +153,13 @@ Metric 06: Population that has 3-min access to Green Space with Average 4 hr Sun
 We analyzed data from three dimensions which are sustainble facade, walkability and green space quality, and obtained 160 models.
 High and low-performing options were selected, and the diagram below showed the options that performed well in the specific metrics but poorly in others.
 
-![description](../projects/compare%20option.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/compare_option.jpg)
 *High and low-performing options*
 
 ### Design Comparison
 
 We also compare the dimensions synthetically and get several sets of good and bad choices. In the model with better performance, the proportion of radial Metro block is the highest. Among the poor performing models, rotated NYC blocks accounted for the highest percentage. The figure below shows the two sets of models with the best and worst average performance.
 
-![description](../projects/CHOICES.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/CHOICES.jpg)
 *The best and worst average performance*
 
