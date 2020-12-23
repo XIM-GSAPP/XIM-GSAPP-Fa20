@@ -1,7 +1,7 @@
 # Walkability Network Analysis
   
 
-![description](../images/Plan_View_1-2.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/Plan_View_1-2.jpg)
 
 ### Tool Description
 
@@ -18,7 +18,7 @@ Step-by-step Instructions:
 6. Define the distance for subdividing the networks into small segments. Essentially, this will be the resolution of the analysis.
 7. Review visual and metric outputs. Does it look correct? Does something look wrong? Common issues below.
 
-![description](../images/Script_GH.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/Script_GH.png)
 
 ### Troubleshooting
 
@@ -29,10 +29,10 @@ Step-by-step Instructions:
 5. If the line weight for the visualization is low,  some paths might not be adjusted depending on distance and time you are analyzing. 
 
 Walkshed Visualization:
-![description](../images/Plan_View_1-1.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/Plan_View_1-1.jpg)
 
 Origin / Destination Visualization:
-![description](../images/Plan_View_1-3.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/Plan_View_1-3.jpg)
 
 ### Modeling Standards
 
@@ -56,8 +56,8 @@ Please follow the following Rhino standards to ensure the proper functionality o
 
 We used this tool in our project to test each proposed street type. The resulting metrics for each type served as a basis of comparison for each model. Subsequently, we were able to score the types based on their performance in this analysis. 
 
-![description](../images/AnalysisResults01.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/AnalysisResults01.png)
 
-![description](../images/AnalysisResults02.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/AnalysisResults02.png)
 
-![description](../images/AnalysisResults03.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/AnalysisResults03.png)
