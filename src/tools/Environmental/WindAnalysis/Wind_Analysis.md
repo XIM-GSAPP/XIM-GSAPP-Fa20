@@ -3,7 +3,7 @@
 
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
 
-![description](../images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_WindAnalysis1.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_WindAnalysis1.png)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
@@ -22,7 +22,7 @@
 5. If needed, modify the angle of variation between the main wind direction axis and primary and secondary channels.
 6. Review visual and metric outputs. Does it look correct? Does something look wrong? Common issues below.
 
-![description](../images/Wind_Analysis_Script.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/tools/Environmental/WindAnalysis/Wind_Analysis_Script.png)
 
 <b> Troubleshooting </b>
 1. Make sure to load the street curves appropriately: confirm that the curves are planar. This is crucial to the appropriate extraction of information and calculation of intersection by the script. The tool will not produce any results if primary and secondary streets do not intersect.
@@ -30,7 +30,7 @@
 3. Confirm that curves relating to each street type are set appropriately across the script.
 4. If needed, modify the offset distance for the primary and secondary channel breps.
 
-![description](../images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_WindAnalysis2.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/VS_BST_Wilson_AnirudhChandar_CamilaNunez_LuisMiguelPizano_FA20_WindAnalysis2.png)
 
 #### Modeling Standards
 <!--Revise for specific modeling requirements for you analysis to run properly. If useful, add an image of properly vs improperly model geometry-->
@@ -68,7 +68,7 @@ This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur
 <!--add images and text to describe a use case below-->
 Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-![description](../images/tool_example_2.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/images/tool_example_2.jpg)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
