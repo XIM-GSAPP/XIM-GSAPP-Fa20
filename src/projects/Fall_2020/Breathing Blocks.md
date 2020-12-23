@@ -116,7 +116,7 @@ This analysis technique at the urban scale, focuses on access to urban amenities
 
 In doing so, **the tool generates a street hierarchy of air flow uses;** pollution can be carried at a higher speed through primary streets, which will shelter communal pedestrian spaces within the blocks by decreasing wind flow on secondary streets. The resulting percentage of airflow reduction for each street type facilitates comparison of each iterative scenario.
 
-[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/tree/main/src/tools)
+[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/WindAnalysis/Wind_Analysis.md)
 
 
 ### Procedural Types
