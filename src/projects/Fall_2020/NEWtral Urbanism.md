@@ -136,23 +136,23 @@ Illustrating rules and types of computational design model.
 
 ### Exploring the Design Space
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/0.5-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/0.5-best-show.JPG)
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/0.75-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/0.75-best-show.JPG)
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/1-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/1-best-show.JPG)
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/S-grid-solar-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/S-grid-solar-best-show.JPG)
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/SE-grid-solar-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/SE-grid-solar-best-show.JPG)
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/narutral-grid-solar-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/narutral-grid-solar-best-show.JPG)
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/solar-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/solar-best-show.JPG)
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/view-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/view-best-show.JPG)
 
-![description]https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/voronoi-solar-best-show.JPG)
+![description](https://github.com/l-cl3424/XIM-GSAPP-Fa20/blob/main/Final/voronoi-solar-best-show.JPG)
 
 
 
