@@ -56,20 +56,3 @@
 We used this tool to study pollution in the Bronx; pollution can be carried at a higher speed through primary streets, which will shelter comunal pedestrian spaces within the blocks by decreasing wind flow on secondary streets. The resulting percentage of airflow reduction for each street type facilitates comparison of each iterative scenario. 
 
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
-link Wind_Analysis.gh
-This tool uses this method of calculating X from this source. The metric is derived in this manner. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-#### Limitations & Context
-<!--add text and/or images that expose potential for bias by stating limitations (ie what does this tool not do,) and the context in which it was created.-->
-
-This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-#### Examples
-<!--add images and text to describe a use case below-->
-Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
-
-Some more text here perhaps.
-
-<b> More project examples here: </b>
