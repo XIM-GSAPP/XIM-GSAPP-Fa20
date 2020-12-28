@@ -7,7 +7,7 @@ Team: Huiya Zhong, Chengliang Li
 ***Creating a new type of Energy Neutral Community which use PV Panels on facades to produce solar energy, and Realize the cozy outdoor comfort open space, to which the residents have good view inside the buildings.***
 
 
-![description](src/images/solar-design space.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-design%20space.jpg)
 
 The introduction image indicates we propose putting PV panels on the facades of the housing type which transformed from typical NYCHA Housings.
 
@@ -27,8 +27,8 @@ The introduction image indicates we propose putting PV panels on the facades of 
 “What if building envelope could be put PV  panels to generate solar energy covering the electricity consumptions of housings?”
 ```
 
-![description](src/images/solar-site.png)
-![description](src/images/solar-collage.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-site.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-collage.jpg)
 
 ### Google earth map photo collage ###
 
@@ -53,9 +53,9 @@ Creating a new type of Energy Neutral Community which use PV Panels on facades t
 
 <br />
 
-![description](src/images/solar-CompDesignModelDiagram-01.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-CompDesignModelDiagram-01.jpg)
 
-![description](src/images/solar-inputs.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-inputs.jpg)
 
 ***Metrics***
 1. Average annual PV Production (Proxy)
@@ -63,13 +63,13 @@ Creating a new type of Energy Neutral Community which use PV Panels on facades t
 3. Summer Comfort Open Space
 4. Views to Open Space
 
-![description](src/images/solar-outputs.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-outputs.jpg)
 
 
 
 ### Analysis Tools
 
-![description](src/tools/Environmental/Solar Proxy/file/tool-1.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/file/tool-1.jpg)
 
 
 
@@ -79,17 +79,17 @@ The Solar Proxy tool is related to the solar energy generation on building facad
 
 *Please include a short caption describing your diagram.*
 
-[Link](src/tools/Environmental/Solar Proxy/Solar Energy Proxy.md)
+[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/Solar%20Energy%20Proxy.md)
 
 
 
 ### Procedural Types
 
-![description](src/types/Radial Tower/file/radialTower.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/radialTower.jpg)
 
 #### Radial Tower
 
-[Link](src/types/Radial Tower/Radial Tower.md)
+[Link](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/Radial%20Tower.md)
 
 ***Procedural type rule***
 
@@ -108,16 +108,16 @@ If it is larger than 3 but smaller than 5, the building will have same widths’
 
 
 
-![description](src/types/Radial Tower/file/ratios-01.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/ratios-01.jpg)
 
 
-![description](src/types/Radial Tower/file/heightsVariation.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/heightsVariation.jpg)
 
 Illustrating rules and types of computational design model.
 
  to any procedural types you have documented and posted.
 
-![description](src/types/Radial Tower/file/toKnow.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/toKnow.jpg)
 
 
 ### Design Space
@@ -136,23 +136,23 @@ Illustrating rules and types of computational design model.
 
 ### Exploring the Design Space
 
-![description](src/images/solar-0.5-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-0.5-best-show.JPG)
 
-![description](src/images/solar-0.75-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-0.75-best-show.JPG)
 
-![description](src/images/solar-1-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-1-best-show.JPG)
 
-![description](src/images/solar-S-grid-solar-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-S-grid-solar-best-show.JPG)
 
-![description](src/images/solar-SE-grid-solar-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-SE-grid-solar-best-show.JPG)
 
-![description](src/images/solar-narutral-grid-solar-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-narutral-grid-solar-best-show.JPG)
 
-![description](src/images/solar-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-voronoi-solar-best-show.JPG)
 
-![description](src/images/solar-view-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-best-show.JPG)
 
-![description](src/images/solar-voronoi-solar-best-show.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/images/solar-view-best-show.JPG)
 
 
 
