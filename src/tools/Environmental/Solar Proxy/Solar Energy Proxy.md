@@ -3,7 +3,7 @@
 
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
 
-![description](src/tools/Environmental/Solar Proxy/file/tool-1.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/file/tool-1.jpg)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
 
@@ -13,7 +13,7 @@
 
 This tool is related to the solar energy generation on building facades and roofs aiming to simulate the real PV Panel solar production by a less time-consuming proxy.
 
-![description](src/tools/Environmental/Solar Proxy/file/tool-4.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/file/tool-4.JPG)
 
 ### How To Use
 
@@ -27,7 +27,7 @@ This tool is related to the solar energy generation on building facades and roof
 6. Adjust surface analysis resolution. (Larger, faster)
 7. Choose which part you want to analyze -> 'facade', 'roof' or 'facade and roof'.
 
-![description](src/tools/Environmental/Solar Proxy/file/tool-2.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/file/tool-2.jpg)
 
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/grasshopper_tree.JPG) -->
 
@@ -75,7 +75,7 @@ This tool uses this method of calculating approximately PV energy generation.
 4. We take a 90% of the upper bounds of the result.
 5. We multiply the surfaces' area above the threshold with the acceptable PV efficiency (85%) per sq ft, thus get the approximate PV Panel energy generation value.
 
-![description](src/tools/Environmental/Solar Proxy/file/regression.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/file/regression.png)
 
 ### Limitations & Context
 <!--add text and/or images that expose potential for bias by stating limitations (ie what does this tool not do,) and the context in which it was created.-->
@@ -86,7 +86,7 @@ The tool is still under development. We are still trying to figure out the corre
 <!--add images and text to describe a use case below-->
 Here is how we used this tool on a project!
 
-![description](src/tools/Environmental/Solar Proxy/file/tool-5.JPG)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/file/tool-5.JPG)
 
 
 ### Required Plugins
@@ -96,6 +96,6 @@ Here is how we used this tool on a project!
 
 ### Required Files
 
-[Rhino File](src/tools/Environmental/Solar Proxy/file/solarProxy.3dm)
+[Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/file/solarProxy.3dm)
 
-[Grasshopper File](src/tools/Environmental/Solar Proxy/file/solarProxy.gh)
+[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/tools/Environmental/Solar%20Proxy/file/solarProxy.gh)
