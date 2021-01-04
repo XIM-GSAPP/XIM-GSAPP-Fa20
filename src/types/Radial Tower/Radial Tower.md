@@ -1,12 +1,12 @@
 # Radial Tower for Solar Energy
 
-![description](src/types/Radial Tower/file/radialTower.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/radialTower.jpg)
 
 ### Type Description
 
 This type is a redesign of the existing NYCHA Building type. Generally in each building there is a central vertical circulation core and radial residential wings, the number of which depends on how many sides the parcel has. This is a very typical building of NYCHA and it is efficient in terms of spatial organization and programs distribution. The purpose of these iterations are trying to optimize the solar energy production potential of putting PV Panels on building facade.
 
-![description](src/types/Radial Tower/file/ghScreenShot.png)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/ghScreenShot.png)
 
 ### Required inputs
 
@@ -22,11 +22,11 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 
 (1)Top-Bottom Ratio: The choices are 0.5, 0.75 and 1.
 
-![description](src/types/Radial Tower/file/ratios-01.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/ratios-01.jpg)
 
 (2)Heights Variation: The data should smaller than One Side Set Back Ratio.
 
-![description](src/types/Radial Tower/file/heightsVariation.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/heightsVariation.jpg)
 
 (3)Variation Pattern: This parameter determines the direction in which the heights of buildings change.
 
@@ -62,7 +62,7 @@ This type is a redesign of the existing NYCHA Building type. Generally in each b
 3. If the shortest edge is smaller than the threshold, this type won’t be applied to the parcel.
 4. If the ratio of the longest edge to the shortest edge is larger than 5, this type won’t be applied to the parcel.
 
-![description](src/types/Radial Tower/file/toKnow.jpg)
+![description](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/toKnow.jpg)
 
 ### Required Plugins
 
@@ -70,6 +70,6 @@ No specific plugins necessary
 
 ### Required Files
 
-[Rhino File](src/types/Radial Tower/file/Radial Tower for Solar Energy.3dm)
+[Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/Radial%20Tower%20for%20Solar%20Energy.3dm)
 
-[Grasshopper File](src/types/Radial Tower/file/Radial Tower for Solar Energy.gh)
+[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/blob/main/src/types/Radial%20Tower/file/Radial%20Tower%20for%20Solar%20Energy.gh)
