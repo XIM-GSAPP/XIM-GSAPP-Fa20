@@ -57,6 +57,7 @@ Explain why the outcome of your model is important by using your:
 1. Background research of your problem and proposal
 1. Future context exploration and transformation of NYC into an hypothetical condition
 1. Urban data mapping
+
 Not all projets will cover all the above topics. Use what is needed to explain why the issues your project addresses matter.
 
 <br />
